@@ -1,0 +1,441 @@
+[
+    {
+        "client_msg_id": "275419df-3f28-4d5f-9489-373a01fd95bc",
+        "type": "message",
+        "text": "Hello Mrunal - Can you please ask around in India, if anyone you know  UI\/UX expert looking paid internship? I am looking for UI\/UX developer for our project",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695972179.251389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDcH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Mrunal - Can you please ask around in India, if anyone you know  UI\/UX expert looking paid internship? I am looking for UI\/UX developer for our project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7608f63e-4eae-41c4-a73c-25b2b36f592a",
+        "type": "message",
+        "text": "yes, il ask around",
+        "user": "U05S28X7ETB",
+        "ts": "1695999701.469479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CdwK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, il ask around"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "C0DBE12C-82D8-469F-ABCB-01CB671B4C97",
+        "type": "message",
+        "text": "Hey Satish, could you give me more details as to what responsibilities will be for this UI\/UX and what is our budget?",
+        "user": "U05S28X7ETB",
+        "ts": "1696004217.422289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4KwW2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Satish, could you give me more details as to what responsibilities will be for this UI\/UX and what is our budget"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "94F79564-9D62-4F7D-BA6A-42787E0E56A8",
+        "type": "message",
+        "text": "Help us design website &amp; Web application ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696004868.168939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Help us design website & Web application "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1DECA3A2-4644-4E50-845B-BA323FE8D5A2",
+        "type": "message",
+        "text": "Please only for for folks in Indian. Preferably looking for part time gig ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696004905.235679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CUJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please only for for folks in Indian. Preferably looking for part time gig "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D52CC08E-B139-4EB7-BC12-227FABA96AAE",
+        "type": "message",
+        "text": "Budget is super low ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696004970.414129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MbX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Budget is super low "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B1320FCC-A5BC-41B9-AD01-9AA08DB99003",
+        "type": "message",
+        "text": "Okay",
+        "user": "U05S28X7ETB",
+        "ts": "1696004997.118859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i2QkM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "39F1614C-13F9-423F-B38E-D1A38B1EDBBB",
+        "type": "message",
+        "text": "Yes, my brother runs softwares company ",
+        "user": "U05S28X7ETB",
+        "ts": "1696005058.640229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fWqju",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, my brother runs softwares company "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "674158E5-3A60-4018-ADD1-041DC46E2C3E",
+        "type": "message",
+        "text": "I have asked him",
+        "user": "U05S28X7ETB",
+        "ts": "1696005062.595849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jpe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have asked him"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "A75AD6E6-EEA2-447D-820E-00A10F97A7CF",
+        "type": "message",
+        "text": "Ok. Need to find freelancer ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696005107.415349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L506",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok. Need to find freelancer "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C20E1D36-4450-47E2-8F42-57F60430A884",
+        "type": "message",
+        "text": "Yeah i have asked him if he knows someone ",
+        "user": "U05S28X7ETB",
+        "ts": "1696005132.615489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HHH2T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have asked him if he knows someone "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "reactions": [
+            {
+                "name": "thankyou",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

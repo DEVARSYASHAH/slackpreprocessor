@@ -1,0 +1,234 @@
+[
+    {
+        "client_msg_id": "96DC3BDC-C028-4AFE-AA76-C2617DA28E5D",
+        "type": "message",
+        "text": "Can we get on a call?",
+        "user": "U05TG4W1YUF",
+        "ts": "1695878050.029929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Slg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we get on a call?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "4da6d231-0fb5-436e-b90d-8d5f3c71e2ad",
+        "type": "message",
+        "text": "Sure",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695878471.495119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bZ+p6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d11bd95-7e51-44f8-8056-f2eacdbf74a2",
+        "type": "message",
+        "text": "I thought we're meeting at 10:30 \/ 11 AM IST",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695878485.798469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v14",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought we're meeting at 10:30 \/ 11 AM IST"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "098DA944-38C4-4057-874E-BD9D45343E7F",
+        "type": "message",
+        "text": "I can join now !",
+        "user": "U05TG4W1YUF",
+        "ts": "1695878506.482639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jqNR2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can join now !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "D05TG4W2TE3",
+        "room": {
+            "id": "R05TUPB694P",
+            "name": "",
+            "media_server": "",
+            "created_by": "U05TG4W1YUF",
+            "date_start": 1695878510,
+            "date_end": 1695882077,
+            "participants": [],
+            "participant_history": [
+                "U05TG4W1YUF",
+                "U05TQLV3ZC4",
+                "U05TTNUB27P"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1695878510.590629",
+            "thread_root_ts": "1695878510.590629",
+            "channels": [
+                "D05TG4W2TE3"
+            ],
+            "is_dm_call": true,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": true,
+            "has_ended": true,
+            "background_id": "STAR_GAZING",
+            "canvas_background": "STAR_GAZING",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "b7a05f8c-24aa-4ddd-85b8-677ebc9e0706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/kentronhq.slack.com\/call\/R05TUPB694P",
+        "subtype": "huddle_thread",
+        "ts": "1695878510.590629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xS3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T05R93T7YDD",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

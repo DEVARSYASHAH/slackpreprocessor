@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "6247131a-5371-492c-ae76-6399b443c9c6",
+        "type": "message",
+        "text": "```from sklearn.feature_extraction.text import CountVectorizer\nfrom sklearn.metrics.pairwise import cosine_similarity\nimport numpy as np\n\ndef calculate_word_confidence(batch_of_words, target_word):\n    \"\"\"\n    Calculate confidence score for a specific word across all sentences in a batch of words using Bag of Words (BoW).\n\n    Args:\n    - batch_of_words (list): A list of words or sentences in the batch.\n    - target_word (str): The word for which confidence score will be calculated.\n\n    Returns:\n    - confidence_score (float): Confidence score for the target word across all sentences.\n    \"\"\"\n\n    # Step 1: Create a BoW representation of the batch of words\n    vectorizer = CountVectorizer()\n    X = vectorizer.fit_transform(batch_of_words)\n\n    # Step 2: Calculate the BoW representation of the target word\n    target_word_vector = vectorizer.transform([target_word])\n\n    # Step 3: Calculate cosine similarity between the target word and all sentences in the batch\n    cosine_similarities = cosine_similarity(X, target_word_vector)\n\n    # Step 4: Extract the maximum confidence score (highest similarity) across all sentences\n    confidence_score = np.max(cosine_similarities)\n\n    return confidence_score\n\n# Example usage:\nbatch_of_words = [\n    \"This is an example sentence.\",\n    \"Another example for testing.\",\n    \"Yet another example.\"\n]\ntarget_word = \"this\"\n\nconfidence_score = calculate_word_confidence(batch_of_words, target_word)\n\n# Display the confidence score across all sentences\nprint(f\"Confidence score for word '{target_word}' across all sentences: {confidence_score:.4f}\")```",
+        "user": "U05TTNUB27P",
+        "ts": "1696873315.203029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pz72",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "from sklearn.feature_extraction.text import CountVectorizer\nfrom sklearn.metrics.pairwise import cosine_similarity\nimport numpy as np\n\ndef calculate_word_confidence(batch_of_words, target_word):\n    \"\"\"\n    Calculate confidence score for a specific word across all sentences in a batch of words using Bag of Words (BoW).\n\n    Args:\n    - batch_of_words (list): A list of words or sentences in the batch.\n    - target_word (str): The word for which confidence score will be calculated.\n\n    Returns:\n    - confidence_score (float): Confidence score for the target word across all sentences.\n    \"\"\"\n\n    # Step 1: Create a BoW representation of the batch of words\n    vectorizer = CountVectorizer()\n    X = vectorizer.fit_transform(batch_of_words)\n\n    # Step 2: Calculate the BoW representation of the target word\n    target_word_vector = vectorizer.transform([target_word])\n\n    # Step 3: Calculate cosine similarity between the target word and all sentences in the batch\n    cosine_similarities = cosine_similarity(X, target_word_vector)\n\n    # Step 4: Extract the maximum confidence score (highest similarity) across all sentences\n    confidence_score = np.max(cosine_similarities)\n\n    return confidence_score\n\n# Example usage:\nbatch_of_words = [\n    \"This is an example sentence.\",\n    \"Another example for testing.\",\n    \"Yet another example.\"\n]\ntarget_word = \"this\"\n\nconfidence_score = calculate_word_confidence(batch_of_words, target_word)\n\n# Display the confidence score across all sentences\nprint(f\"Confidence score for word '{target_word}' across all sentences: {confidence_score:.4f}\")"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/slack.com\/help\/articles\/14455334890259>",
+        "user": "U05S28X7ETB",
+        "ts": "1695868188.783259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Nl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slack.com\/help\/articles\/14455334890259"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/slack.com\/help\/articles\/14455334890259",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/favicon-32.png",
+                "thumb_url": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/slack_hash_256.png",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "id": 1,
+                "original_url": "https:\/\/slack.com\/help\/articles\/14455334890259",
+                "fallback": "Slack Help Center: Take notes and align on tasks with a coworker",
+                "text": " What you'll learn in 2 minutes or less: How to use a canvas to keep track of important information between you and a coworker.Organize priorities and collaborate on action items from a direct m...",
+                "title": "Take notes and align on tasks with a coworker",
+                "title_link": "https:\/\/slack.com\/help\/articles\/14455334890259",
+                "service_name": "Slack Help Center"
+            }
+        ],
+        "subtype": "document_unfurl",
+        "document_unfurl": {
+            "is_unfurled": true
+        }
+    }
+]

@@ -1,0 +1,337 @@
+[
+    {
+        "client_msg_id": "D5728E37-0334-4774-A06C-E23B89A6B9D0",
+        "type": "message",
+        "text": "<@U05TQLV3ZC4> are you available for meet?",
+        "user": "U05TG4W1YUF",
+        "ts": "1696177290.472029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "msC2N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TQLV3ZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are you available for meet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "A64B2CE8-476E-417A-B593-F08834370116",
+        "type": "message",
+        "text": "Yes - Give me 5 min ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696177537.741049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRQ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes - Give me 5 min "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c7dbf8bd-9b7c-4594-8b47-ff3390e083de",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> - I've joined the call",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696178119.505009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0hkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I've joined the call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6eaf488f-ee5e-40ed-b5bf-60ff8b1b6258",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> - Let me know when you're available to have a call",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696178384.421709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iVfHf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Let me know when you're available to have a call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C7B77695-1BF4-4664-B9CB-DE8786B8008D",
+        "type": "message",
+        "text": "joining ",
+        "user": "U05TG4W1YUF",
+        "ts": "1696178629.351479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Vi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "joining "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "D05TG4W2TE3",
+        "room": {
+            "id": "R05UNRL0V34",
+            "name": "",
+            "media_server": "",
+            "created_by": "U05TG4W1YUF",
+            "date_start": 1696178640,
+            "date_end": 1696180103,
+            "participants": [],
+            "participant_history": [
+                "U05TG4W1YUF",
+                "U05TQLV3ZC4"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1696178640.344489",
+            "thread_root_ts": "1696178640.344489",
+            "channels": [
+                "D05TG4W2TE3"
+            ],
+            "is_dm_call": true,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": true,
+            "has_ended": true,
+            "background_id": "ARIZONA",
+            "canvas_background": "ARIZONA",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "aa3faa23-4b51-4fd3-aaab-3f3ba9990706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/kentronhq.slack.com\/call\/R05UNRL0V34",
+        "subtype": "huddle_thread",
+        "ts": "1696178640.344489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DyB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T05R93T7YDD",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "947fbb09-8aa6-4efe-87ed-5dc0d4be9a3d",
+        "type": "message",
+        "text": "<https:\/\/slack.com\/help\/articles\/360002079527-A-guide-to-Slacks-Discovery-APIs>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696178891.564249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t1t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slack.com\/help\/articles\/360002079527-A-guide-to-Slacks-Discovery-APIs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/slack.com\/help\/articles\/360002079527-A-guide-to-Slacks-Discovery-APIs",
+                "thumb_url": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/slack_hash_256.png",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/favicon-32.png",
+                "id": 1,
+                "original_url": "https:\/\/slack.com\/help\/articles\/360002079527-A-guide-to-Slacks-Discovery-APIs",
+                "fallback": "Slack Help Center: A guide to Slack's Discovery APIs",
+                "text": "Occasionally, Slack Customers may need or be required by law to export messages and files from a workspace. Potential scenarios include issues related to human resources, legal, or finance, for exa...",
+                "title": "A guide to Slack's Discovery APIs",
+                "title_link": "https:\/\/slack.com\/help\/articles\/360002079527-A-guide-to-Slacks-Discovery-APIs",
+                "service_name": "Slack Help Center"
+            }
+        ]
+    }
+]

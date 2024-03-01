@@ -1,0 +1,117 @@
+[
+    {
+        "type": "message",
+        "subtype": "joiner_notification_for_inviter",
+        "ts": "1694360668.213629",
+        "user": "U05S28X7ETB",
+        "text": "Mrunal Payagude accepted your invitation to join Slack — take a second to say hello."
+    },
+    {
+        "client_msg_id": "c9b469a3-5387-40dc-aa0f-cd72d947b646",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/@CX-CC>",
+        "user": "U05S28VB3ED",
+        "ts": "1694385425.583269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CcBV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/@CX-CC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "gdecdc160d1f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/decdc160d1fb43b4036ae529a277ba4d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "admin",
+            "real_name": "admin",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "admin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/@CX-CC",
+                "thumb_url": "https:\/\/yt3.googleusercontent.com\/hV0G68WIIUBlpfi1tiiN-1xKq1dhNZXAHCW5QtYJhX9yDdhFkYUHVhIsC02QB99DYgdhIvty3iI",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/www.youtube.com\/s\/desktop\/fc8159e8\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/@CX-CC",
+                "fallback": "YouTube: Customer Experience - Customer Centricity",
+                "text": "Customer Experience - Customer Centricity, where we mostly discuss product strategy, product-market fit, service strategy, customer experience (CX), and user experience (UX). We're all about actionable advice to help you balance business goals with target audiences' needs. \n\nWant to join our webinars and workshops live! Most are free. <https:\/\/cxcc.to\/events> You are not added to a mailing list or database. Registration is there so you can add it to your calendar and be reminded.\n\nJoin our Patreon for early articles and videos, full access to our CXCC Discord, Q&amp;A priority, and other perks! You can also join free, which is like joining our mailing list. <https:\/\/patreon.com\/cxcc>\n\nFor nearly 800 videos from late 2019 to mid-2023, see our other channel <https:\/\/youtube.com\/@DeltaCX>",
+                "title": "Customer Experience - Customer Centricity",
+                "title_link": "https:\/\/www.youtube.com\/@CX-CC",
+                "service_name": "YouTube"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74a06be7-6e4f-4b0c-a85e-a0f392f7180f",
+        "type": "message",
+        "text": "<https:\/\/substack.com\/@huryn?utm_source=byline>",
+        "user": "U05S28VB3ED",
+        "ts": "1694385636.291279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/substack.com\/@huryn?utm_source=byline"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "gdecdc160d1f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/decdc160d1fb43b4036ae529a277ba4d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "admin",
+            "real_name": "admin",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "admin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/substack.com\/@huryn?utm_source=byline",
+                "thumb_url": "https:\/\/substackcdn.com\/image\/fetch\/f_auto,q_auto:good,fl_progressive:steep\/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e00d164-beb1-4c71-842b-51163595e490_500x500.png",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/substackcdn.com\/icons\/substack\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/substack.com\/@huryn?utm_source=byline",
+                "fallback": "Paweł Huryn | Substack",
+                "text": "Author, Product Coach. Actionable tips &amp; advice to accelerate your PM career. 9+ years in Product.",
+                "title": "Paweł Huryn | Substack",
+                "title_link": "https:\/\/substack.com\/@huryn?utm_source=byline",
+                "service_name": "substack.com"
+            }
+        ]
+    }
+]

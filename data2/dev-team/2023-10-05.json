@@ -1,0 +1,407 @@
+[
+    {
+        "client_msg_id": "68EB6B19-C44E-4062-94F2-17D314F4B27E",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> \/ <@U05TTNUB27P> - Let me know what time works best for you guys for Saturday (IST) to block two hours for us to brainstorm the platform ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696492769.986009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xt=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \/ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05TTNUB27P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Let me know what time works best for you guys for Saturday (IST) to block two hours for us to brainstorm the platform "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696492769.986009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696493015.332599",
+        "reply_users": [
+            "U05TG4W1YUF"
+        ],
+        "replies": [
+            {
+                "user": "U05TG4W1YUF",
+                "ts": "1696493015.332599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1696493015.332599"
+    },
+    {
+        "client_msg_id": "8C566243-540A-4CDB-91E4-1E720DABBA60",
+        "type": "message",
+        "text": "11 am IST will work for both of us",
+        "user": "U05TG4W1YUF",
+        "ts": "1696493015.332599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bSD4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11 am IST will work for both of us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696492769.986009",
+        "parent_user_id": "U05TQLV3ZC4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05TTNUB27P",
+                    "U05TQLV3ZC4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8f63b95-b2f7-4298-b333-b563fe4dbe6a",
+        "type": "message",
+        "text": "Updates:\n\n• I went through the API docs, and it seems Slack API is further classified into WebAPI, Events API, Admin API, Audit API etc. ( ref - <https:\/\/api.slack.com\/apis> )\n• These APIs provide different data that too from different perspective. Most probably Admin API &amp; Web API should be able to provide the necessary data required to us.\nWill go through these APIs in depth, as well as explore Gmail Export.",
+        "user": "U05TTNUB27P",
+        "ts": "1696500044.263229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wsxup",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Updates:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I went through the API docs, and it seems Slack API is further classified into WebAPI, Events API, Admin API, Audit API etc. ( ref - "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/api.slack.com\/apis"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " )"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "These APIs provide different data that too from different perspective. Most probably Admin API & Web API should be able to provide the necessary data required to us."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nWill go through these APIs in depth, as well as explore Gmail Export."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/api.slack.com\/apis",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/favicon-32.png",
+                "thumb_url": "https:\/\/a.slack-edge.com\/80588\/img\/services\/api_200.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/api.slack.com\/apis",
+                "fallback": "Slack API: Using Slack APIs",
+                "text": "Every Slack app has access to a bag of tricks—a range of APIs that provide access to read, write, and update all kinds of data in Slack.",
+                "title": "Using Slack APIs",
+                "title_link": "https:\/\/api.slack.com\/apis",
+                "service_name": "Slack API"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thankyou",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "289ce7d7-718a-46ca-a160-a7867f360270",
+        "type": "message",
+        "text": "Let me find out why private data didn't come through",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696559379.085589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJP7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me find out why private data didn't come through"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696416290.226849",
+        "parent_user_id": "U05TTNUB27P"
+    },
+    {
+        "client_msg_id": "f6ed2e6f-9a0b-4912-9285-7eea35af91f5",
+        "type": "message",
+        "text": "<@U05TTNUB27P> - Because we're on free plan, export doesn't include private channels",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696561521.987449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ki=AV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TTNUB27P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Because we're on free plan, export doesn't include private channels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696416290.226849",
+        "parent_user_id": "U05TTNUB27P"
+    },
+    {
+        "client_msg_id": "d393f022-e975-4526-8268-7d6325619ecf",
+        "type": "message",
+        "text": "Let me find out what are our options",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696561531.524469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cLZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me find out what are our options"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696416290.226849",
+        "parent_user_id": "U05TTNUB27P"
+    },
+    {
+        "client_msg_id": "243ecbfa-3ae8-4dad-90da-a51bfb104226",
+        "type": "message",
+        "text": "<@U05TTNUB27P> - I've purchased one license of Business+. We should be good now.  The next license type is Enterprise. Most of all our customers will be on Business+ plan.  Paid plan will kick in from *Oct 13.*  Let me see if I can get them change the date",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696563493.936379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NObr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TTNUB27P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I've purchased one license of Business+. We should be good now.  The next license type is Enterprise. Most of all our customers will be on Business+ plan.  Paid plan will kick in from"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Oct 13.  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Let me see if I can get them change the date"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05TQLV3ZC4",
+            "ts": "1696563973.000000"
+        },
+        "thread_ts": "1696416290.226849",
+        "parent_user_id": "U05TTNUB27P"
+    }
+]

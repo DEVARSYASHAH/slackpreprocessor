@@ -1,0 +1,184 @@
+[
+    {
+        "client_msg_id": "79102a58-d647-4abc-ba42-099f90025b75",
+        "type": "message",
+        "text": "Hi, I'm unable to access Devteam sync-up doc",
+        "user": "U05TTNUB27P",
+        "ts": "1697263787.013299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EShZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I'm unable to access Devteam sync-up doc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "bbe52153-9ff9-4425-8077-331eb094141e",
+        "type": "message",
+        "text": "Strange",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697265505.530689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkm8T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Strange"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F061U0KMR16",
+                "created": 1697265530,
+                "timestamp": 1697265530,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05TQLV3ZC4",
+                "user_team": "T05R93T7YDD",
+                "editable": false,
+                "size": 58381,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": false,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05R93T7YDD-F061U0KMR16\/image.png?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05R93T7YDD-F061U0KMR16\/download\/image.png?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05R93T7YDD-F061U0KMR16-46733ffb9e\/image_64.png?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05R93T7YDD-F061U0KMR16-46733ffb9e\/image_80.png?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05R93T7YDD-F061U0KMR16-46733ffb9e\/image_360.png?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+                "thumb_360_w": 360,
+                "thumb_360_h": 357,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05R93T7YDD-F061U0KMR16-46733ffb9e\/image_480.png?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+                "thumb_480_w": 480,
+                "thumb_480_h": 476,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05R93T7YDD-F061U0KMR16-46733ffb9e\/image_160.png?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05R93T7YDD-F061U0KMR16-46733ffb9e\/image_720.png?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+                "thumb_720_w": 720,
+                "thumb_720_h": 714,
+                "original_w": 730,
+                "original_h": 724,
+                "thumb_tiny": "AwAvADCOrUNsjxKx3ZPoaq1ft2HkxjIyQTjPvQA37JH\/ALf5ilFpF6sPxFTjr1\/WnY96AK32OL1b86r3MSxMoXPI71o496pX330+hoAqkVet\/wDVR+u09vf1qjWhbD9wh56HofegCUf54p1IB7mloADVK+++n0q7VK+++n0oAq1oW3Nuhxng\/wA6z6OfU0AawH4UuKyOf7x\/OjJ9T+dAGpK7IAVQvz2qndsW8sspUkHg1XyfU\/nRTA\/\/2Q==",
+                "permalink": "https:\/\/kentronhq.slack.com\/files\/U05TQLV3ZC4\/F061U0KMR16\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05R93T7YDD-F061U0KMR16-e3ecb4fe91",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05TQLV3ZC4",
+        "display_as_bot": false,
+        "ts": "1697265532.640709",
+        "client_msg_id": "42ab3412-c0c4-4eb8-979b-5d0054bceac5"
+    },
+    {
+        "client_msg_id": "c144b6c0-97ab-4fbc-8fbe-2dd91f57bb7d",
+        "type": "message",
+        "text": "Try this link; <https:\/\/docs.google.com\/document\/d\/1iryI8Ws_K2jl6c0ZoeYpHyt8gNb_LS7f-VP27hBL8pQ\/edit?usp=sharing>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697265548.927779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bOBUg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try this link; "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1iryI8Ws_K2jl6c0ZoeYpHyt8gNb_LS7f-VP27hBL8pQ\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05TTNUB27P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+{
+    "id": "C061GBBLMQ8",
+    "name": "FC:F061GBBLMQ8:Technical References",
+    "created": 1697084627,
+    "creator": "USLACKBOT",
+    "is_archived": false,
+    "members": [
+        "U05TG4W1YUF",
+        "U05TQLV3ZC4"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C05SCLAJUP2",
+    "name": "FC:F05SCLAJUP2:Something that needs to get",
+    "created": 1694352140,
+    "creator": "USLACKBOT",
+    "is_archived": false,
+    "members": [
+        "U05S28VB3ED"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C05TUBQF29M",
+    "name": "FC:F05TUBQF29M:Important links",
+    "created": 1695868188,
+    "creator": "USLACKBOT",
+    "is_archived": false,
+    "members": [
+        "U05TQLV3ZC4"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C05RSJWSZ1A",
+    "name": "FC:F05RSJWSZ1A:https:__docs.google.com_spreadsheets_d_1tghhGW2wa4WljNgiWShK-E7ZWkoE-iltCgbs9H9A27Y_edit#gid=495813042",
+    "created": 1694383662,
+    "creator": "USLACKBOT",
+    "is_archived": false,
+    "members": [],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+}
+]

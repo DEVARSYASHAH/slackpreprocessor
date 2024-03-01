@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "4ed28cdf-0042-4fa5-bc30-5aef4d196dad",
+        "type": "message",
+        "text": "Google Workspace: <mailto:superadmin@kentron.ai|superadmin@kentron.ai> \/\/ Nasscom123#",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695969665.652959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e49pY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Google Workspace: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:superadmin@kentron.ai",
+                                "text": "superadmin@kentron.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \/\/ Nasscom123#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05TG4W1YUF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

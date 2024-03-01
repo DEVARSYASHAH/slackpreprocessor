@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "99df9c05-ad53-46be-8fee-546279176602",
+        "type": "message",
+        "text": "take this framework and ask questions to interviewer, who are the buyers, users, what are their characteristics.\nstart preparing their framework\nchatergorise questions - product, tech stack, design, customers,\nUnusual ventures website.",
+        "user": "U05S28X7ETB",
+        "ts": "1695870615.158749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bQhLL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "take this framework and ask questions to interviewer, who are the buyers, users, what are their characteristics.\nstart preparing their framework\nchatergorise questions - product, tech stack, design, customers,\nUnusual ventures website."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    }
+]

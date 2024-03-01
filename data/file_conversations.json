@@ -1,0 +1,22 @@
+[
+{
+    "id": "C05SCLAJUP2",
+    "name": "FC:F05SCLAJUP2:Something that needs to get",
+    "created": 1694352140,
+    "creator": "USLACKBOT",
+    "is_archived": false,
+    "members": [
+        "U05S28VB3ED"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+}
+]

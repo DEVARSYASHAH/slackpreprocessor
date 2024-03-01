@@ -1,0 +1,636 @@
+[
+    {
+        "client_msg_id": "985442d8-96dc-48f3-ba4c-d7c6d8f5ae77",
+        "type": "message",
+        "text": "Update -\n1. Went through AES256 Encryption, and how to implement it.\n2. Started working on pre-process layer which gives us the confidence score.\n3. Will start cost analysis of the services which we will use - as discussed in todays meet ( 9.10.23 )",
+        "user": "U05TTNUB27P",
+        "ts": "1696847100.035059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/4rD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update -\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Went through AES256 Encryption, and how to implement it."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Started working on pre-process layer which gives us the confidence score."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Will start cost analysis of the services which we will use - as discussed in todays meet ( 9.10.23 )"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "reactions": [
+            {
+                "name": "thankyou",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8788A43F-4D20-4C3E-95DC-E9A736FAD796",
+        "type": "message",
+        "text": "<https:\/\/www.traceable.ai\/2023-state-of-api-security|https:\/\/www.traceable.ai\/2023-state-of-api-security>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696868655.374139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BU2s7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.traceable.ai\/2023-state-of-api-security",
+                                "text": "https:\/\/www.traceable.ai\/2023-state-of-api-security"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.traceable.ai\/2023-state-of-api-security",
+                "ts": 1681999360,
+                "image_url": "https:\/\/www.traceable.ai\/wp-content\/uploads\/2023\/08\/State-of-api-security-LP-featured-image.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 210084,
+                "service_icon": "https:\/\/www.traceable.ai\/wp-content\/uploads\/2021\/09\/favicon-icon-150x150.png",
+                "id": 1,
+                "original_url": "https:\/\/www.traceable.ai\/2023-state-of-api-security",
+                "fallback": "Traceable API Security: The 2023 State of API Security Report - Global Findings",
+                "text": "The industry’s first global State of API Security report investigates API data breaches, API sprawl, ownership, governance, zero trust, and the path to a secure future.",
+                "title": "The 2023 State of API Security Report - Global Findings",
+                "title_link": "https:\/\/www.traceable.ai\/2023-state-of-api-security",
+                "service_name": "Traceable API Security",
+                "fields": [
+                    {
+                        "value": "Less than a minute",
+                        "title": "Time to read",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05TTNUB27P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7078b3b7-05da-43ae-aad2-b1e0ea447f8b",
+        "type": "message",
+        "text": "Guys - I've another call at 10:30. Let's meet at 11 PST  (11:30 IST)",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696914375.034849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7+elG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guys - I've another call at 10:30. Let's meet at 11 PST  (11:30 IST)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F4779739-EA82-463C-AB80-23E29DB6DEA9",
+        "type": "message",
+        "text": "sure",
+        "user": "U05TG4W1YUF",
+        "ts": "1696914432.380039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYiUM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "DC5D08D8-F97F-4D08-8B13-9FA9ECECACB8",
+        "type": "message",
+        "text": "<@U05TQLV3ZC4> now?",
+        "user": "U05TG4W1YUF",
+        "ts": "1696917712.119219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AdYc2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TQLV3ZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "type": "message",
+        "text": "Slack Export",
+        "files": [
+            {
+                "id": "F060H5KB4JG",
+                "created": 1696917816,
+                "timestamp": 1696917816,
+                "name": "Kentron Slack export Sep 10 2023 - Oct 8 2023.zip",
+                "title": "Kentron Slack export Sep 10 2023 - Oct 8 2023.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U05TQLV3ZC4",
+                "user_team": "T05R93T7YDD",
+                "editable": false,
+                "size": 102912,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": false,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05R93T7YDD-F060H5KB4JG\/kentron_slack_export_sep_10_2023_-_oct_8_2023.zip?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05R93T7YDD-F060H5KB4JG\/download\/kentron_slack_export_sep_10_2023_-_oct_8_2023.zip?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/kentronhq.slack.com\/files\/U05TQLV3ZC4\/F060H5KB4JG\/kentron_slack_export_sep_10_2023_-_oct_8_2023.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T05R93T7YDD-F060H5KB4JG-e9478e80f5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05TQLV3ZC4",
+        "display_as_bot": false,
+        "ts": "1696917838.024409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W6NZM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slack Export"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7449dc9f-e94c-4352-a1ba-f42abfaf7fa1"
+    },
+    {
+        "client_msg_id": "303501bd-aeb5-4fb6-bb09-c48f6f99cd26",
+        "type": "message",
+        "text": "Joining",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696917840.618209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "585mD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joining"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "C05TTC0DAJ1",
+        "room": {
+            "id": "R06082YASHL",
+            "name": "",
+            "media_server": "",
+            "created_by": "U05TQLV3ZC4",
+            "date_start": 1696917881,
+            "date_end": 1696919073,
+            "participants": [],
+            "participant_history": [
+                "U05TQLV3ZC4",
+                "U05TG4W1YUF"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1696917881.693459",
+            "thread_root_ts": "1696917881.693459",
+            "channels": [
+                "C05TTC0DAJ1"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "background_id": "BIRDSONG",
+            "canvas_background": "BIRDSONG",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "6c04e98a-975a-464f-a06e-280437ac0706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/kentronhq.slack.com\/call\/R06082YASHL",
+        "subtype": "huddle_thread",
+        "ts": "1696917881.693459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UoEcF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T05R93T7YDD",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "29ed8074-e452-4678-8eb4-18091c587c36",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> - Let me know if you can still join Slack huddle call",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696918064.849689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WOdXJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Let me know if you can still join Slack huddle call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FFD3C043-427B-436A-A8CB-57CA89366EC8",
+        "type": "message",
+        "text": "can u hear me?",
+        "user": "U05TG4W1YUF",
+        "ts": "1696918125.396489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "55\/LN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can u hear me?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696918125.396489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696918135.469239",
+        "reply_users": [
+            "U05TQLV3ZC4"
+        ],
+        "replies": [
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1696918135.469239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1696918135.469239"
+    },
+    {
+        "client_msg_id": "be1335f4-e0ba-45f6-b13c-32e3905a5446",
+        "type": "message",
+        "text": "yes",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696918135.469239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IB8ze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696918125.396489",
+        "parent_user_id": "U05TG4W1YUF"
+    },
+    {
+        "client_msg_id": "77ac98eb-8e27-471c-b765-bd27dbd1d06b",
+        "type": "message",
+        "text": "<https:\/\/dbschema.com\/>",
+        "user": "U05TG4W1YUF",
+        "ts": "1696918780.553759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MouJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dbschema.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/dbschema.com\/",
+                "service_icon": "https:\/\/dbschema.com\/img\/favicons\/apple-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/dbschema.com\/",
+                "fallback": "DbSchema | Visual &amp; Team-Oriented Design &amp; Management Tools",
+                "text": "Tool for designing the database schema in team and deploy on multiple databases, documentation and management.",
+                "title": "DbSchema | Visual &amp; Team-Oriented Design &amp; Management Tools",
+                "title_link": "https:\/\/dbschema.com\/",
+                "service_name": "dbschema.com"
+            }
+        ]
+    }
+]

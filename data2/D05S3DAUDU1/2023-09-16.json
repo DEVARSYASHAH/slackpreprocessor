@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "CDB98D7D-7B2C-413C-B4AD-1C2AF0FFE7A1",
+        "type": "message",
+        "text": "Hello Mrunal - I’ve plans today. Let’s connect tomorrow ",
+        "user": "U05RA88PCPR",
+        "ts": "1694894515.525569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=3b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mrunal - I’ve plans today. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Let’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " connect tomorrow "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g931db43d4a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/931db43d4a6d897e598ead70ddaf1428.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Deactivate",
+            "real_name": "Deactivate",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "sam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

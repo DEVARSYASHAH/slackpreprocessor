@@ -1,0 +1,44 @@
+client_msg_id,type,text,user,ts,blocks,team,user_team,source_team,user_profile.avatar_hash,user_profile.image_72,user_profile.first_name,user_profile.real_name,user_profile.display_name,user_profile.team,user_profile.name,user_profile.is_restricted,user_profile.is_ultra_restricted
+6247131a-5371-492c-ae76-6399b443c9c6,message,"```from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
+
+def calculate_word_confidence(batch_of_words, target_word):
+    """"""
+    Calculate confidence score for a specific word across all sentences in a batch of words using Bag of Words (BoW).
+
+    Args:
+    - batch_of_words (list): A list of words or sentences in the batch.
+    - target_word (str): The word for which confidence score will be calculated.
+
+    Returns:
+    - confidence_score (float): Confidence score for the target word across all sentences.
+    """"""
+
+    # Step 1: Create a BoW representation of the batch of words
+    vectorizer = CountVectorizer()
+    X = vectorizer.fit_transform(batch_of_words)
+
+    # Step 2: Calculate the BoW representation of the target word
+    target_word_vector = vectorizer.transform([target_word])
+
+    # Step 3: Calculate cosine similarity between the target word and all sentences in the batch
+    cosine_similarities = cosine_similarity(X, target_word_vector)
+
+    # Step 4: Extract the maximum confidence score (highest similarity) across all sentences
+    confidence_score = np.max(cosine_similarities)
+
+    return confidence_score
+
+# Example usage:
+batch_of_words = [
+    ""This is an example sentence."",
+    ""Another example for testing."",
+    ""Yet another example.""
+]
+target_word = ""this""
+
+confidence_score = calculate_word_confidence(batch_of_words, target_word)
+
+# Display the confidence score across all sentences
+print(f""Confidence score for word '{target_word}' across all sentences: {confidence_score:.4f}"")```",U05TTNUB27P,1696873315.203029,"[{'type': 'rich_text', 'block_id': '3pz72', 'elements': [{'type': 'rich_text_preformatted', 'elements': [{'type': 'text', 'text': 'from sklearn.feature_extraction.text import CountVectorizer\nfrom sklearn.metrics.pairwise import cosine_similarity\nimport numpy as np\n\ndef calculate_word_confidence(batch_of_words, target_word):\n    """"""\n    Calculate confidence score for a specific word across all sentences in a batch of words using Bag of Words (BoW).\n\n    Args:\n    - batch_of_words (list): A list of words or sentences in the batch.\n    - target_word (str): The word for which confidence score will be calculated.\n\n    Returns:\n    - confidence_score (float): Confidence score for the target word across all sentences.\n    """"""\n\n    # Step 1: Create a BoW representation of the batch of words\n    vectorizer = CountVectorizer()\n    X = vectorizer.fit_transform(batch_of_words)\n\n    # Step 2: Calculate the BoW representation of the target word\n    target_word_vector = vectorizer.transform([target_word])\n\n    # Step 3: Calculate cosine similarity between the target word and all sentences in the batch\n    cosine_similarities = cosine_similarity(X, target_word_vector)\n\n    # Step 4: Extract the maximum confidence score (highest similarity) across all sentences\n    confidence_score = np.max(cosine_similarities)\n\n    return confidence_score\n\n# Example usage:\nbatch_of_words = [\n    ""This is an example sentence."",\n    ""Another example for testing."",\n    ""Yet another example.""\n]\ntarget_word = ""this""\n\nconfidence_score = calculate_word_confidence(batch_of_words, target_word)\n\n# Display the confidence score across all sentences\nprint(f""Confidence score for word \'{target_word}\' across all sentences: {confidence_score:.4f}"")'}], 'border': 0}]}]",T05R93T7YDD,T05R93T7YDD,T05R93T7YDD,g0511a7e9b80,https://secure.gravatar.com/avatar/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png,Sajal,Sajal,Sajal,T05R93T7YDD,sajals1146,True,True

@@ -1,0 +1,329 @@
+[
+    {
+        "client_msg_id": "812EF8FF-9A88-4403-8D41-F53FC85912CD",
+        "type": "message",
+        "text": "Guys - I’m running late. ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695965403.277739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yzqi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guys - "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " running late. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BB5D9161-998F-423C-B6B8-461896AEEF9B",
+        "type": "message",
+        "text": "Can you please update doc meantime? ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695965423.779469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b40KV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you please update doc meantime? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A05D08D7-3D94-4486-9692-26939C6591EA",
+        "type": "message",
+        "text": "yea , I will in few mins",
+        "user": "U05TG4W1YUF",
+        "ts": "1695965453.802019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "axo5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea , I will in few mins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "C05TTC0DAJ1",
+        "room": {
+            "id": "R05UFB8SG83",
+            "name": "",
+            "media_server": "",
+            "created_by": "U05TQLV3ZC4",
+            "date_start": 1695966126,
+            "date_end": 1695968534,
+            "participants": [],
+            "participant_history": [
+                "U05TQLV3ZC4",
+                "U05TG4W1YUF",
+                "U05TZ4E0G5A"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1695966126.628649",
+            "thread_root_ts": "1695966126.628649",
+            "channels": [
+                "C05TTC0DAJ1"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "background_id": "GRADIENT_03",
+            "canvas_background": "GRADIENT_03",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "aa23bf28-da7b-4d1f-a534-50e342610706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/kentronhq.slack.com\/call\/R05UFB8SG83",
+        "subtype": "huddle_thread",
+        "ts": "1695966126.628649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "egoMw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T05R93T7YDD",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "da37a250-fde6-42b6-919c-645fa8bb8846",
+        "type": "message",
+        "text": "Google Workspace APIs : <https:\/\/developers.google.com\/workspace\/guides\/enable-apis>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695966735.802439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lzd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Google Workspace APIs : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developers.google.com\/workspace\/guides\/enable-apis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/developers.google.com\/workspace\/guides\/enable-apis",
+                "image_url": "https:\/\/www.gstatic.com\/devrel-devsite\/prod\/v47c000584df8fd5ed12554bcabcc16cd4fd28aee940bdc8ae9e35cab77cbb7da\/developers\/images\/opengraph\/white.png",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 16299,
+                "service_icon": "https:\/\/www.gstatic.com\/devrel-devsite\/prod\/v47c000584df8fd5ed12554bcabcc16cd4fd28aee940bdc8ae9e35cab77cbb7da\/developers\/images\/touchicon-180-new.png",
+                "id": 1,
+                "original_url": "https:\/\/developers.google.com\/workspace\/guides\/enable-apis",
+                "fallback": "Google for Developers: Enable Google Workspace APIs  |  Google for Developers",
+                "title": "Enable Google Workspace APIs  |  Google for Developers",
+                "title_link": "https:\/\/developers.google.com\/workspace\/guides\/enable-apis",
+                "service_name": "Google for Developers"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3f66b44-765b-48f4-9ace-76d915f1a974",
+        "type": "message",
+        "text": "Slack APIs: <https:\/\/api.slack.com\/web>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695966818.175399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aEA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slack APIs: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/api.slack.com\/web"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/api.slack.com\/web",
+                "thumb_url": "https:\/\/a.slack-edge.com\/80588\/img\/services\/api_200.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/favicon-32.png",
+                "id": 1,
+                "original_url": "https:\/\/api.slack.com\/web",
+                "fallback": "Slack API: Using the Slack Web API",
+                "text": "The Web API is an RPC-style collection of methods that either yield information about Slack workspaces or allows your app to enact change within them. Learn how to formulate requests it will understand.",
+                "title": "Using the Slack Web API",
+                "title_link": "https:\/\/api.slack.com\/web",
+                "service_name": "Slack API"
+            }
+        ]
+    }
+]

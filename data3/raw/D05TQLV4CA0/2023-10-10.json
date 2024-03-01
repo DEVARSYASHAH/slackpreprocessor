@@ -1,0 +1,264 @@
+[
+    {
+        "client_msg_id": "13E09BB7-6490-415C-A66B-70AB567A3D36",
+        "type": "message",
+        "text": "Hey Satish, I understand! Hope you are feeling well. I have been quite busy last week. Have an interview tomorrow (wed)",
+        "user": "U05S28X7ETB",
+        "ts": "1696939043.728669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ZsIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Satish, I understand"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hope you are feeling well. I have been quite busy last week. Have an interview tomorrow (wed)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "A6718F53-4811-4FBF-99E3-D7E2213D0378",
+        "type": "message",
+        "text": "Been preparing and focusing on that",
+        "user": "U05S28X7ETB",
+        "ts": "1696939057.895719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8\/jue",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Been preparing and focusing on that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "A94198B5-6EFC-4751-B4C2-F9D6580A713D",
+        "type": "message",
+        "text": "Got my ead card so primary focus has been job hunting ",
+        "user": "U05S28X7ETB",
+        "ts": "1696939079.160709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EPWLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got my ead card so primary focus has been job hunting "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "928099B6-13EA-4DDC-AE5B-C259DC192E4F",
+        "type": "message",
+        "text": "Yes, we can connect todat",
+        "user": "U05S28X7ETB",
+        "ts": "1696939097.117659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JU9n7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, we can connect todat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "da9967f5-6d52-4bed-acdd-5fc9c8acc392",
+        "type": "message",
+        "text": "<https:\/\/www.wealthfront.com\/blog\/career-launching-companies-list\/#companies-list>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696996741.357509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FDPfj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wealthfront.com\/blog\/career-launching-companies-list\/#companies-list"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.wealthfront.com\/blog\/wp-content\/uploads\/2021\/01\/CLCL-meta.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 65271,
+                "from_url": "https:\/\/www.wealthfront.com\/blog\/career-launching-companies-list\/#companies-list",
+                "service_icon": "https:\/\/www.wealthfront.com\/blog\/wp-content\/uploads\/2019\/09\/cropped-wave-logo-transparent-hi-res-500x500.png",
+                "id": 1,
+                "original_url": "https:\/\/www.wealthfront.com\/blog\/career-launching-companies-list\/#companies-list",
+                "fallback": "Wealthfront Blog: 2021 Career-Launching Companies List",
+                "text": "Find out which tech companies have enough momentum to become successful businesses and accelerate your career growth.",
+                "title": "2021 Career-Launching Companies List",
+                "title_link": "https:\/\/www.wealthfront.com\/blog\/career-launching-companies-list\/#companies-list",
+                "service_name": "Wealthfront Blog"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5DEE97D0-4D15-45A6-BED3-42B412F55236",
+        "type": "message",
+        "text": "Thank youu ",
+        "user": "U05S28X7ETB",
+        "ts": "1697002024.496459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9qgMi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank youu "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "194CFDEA-4B77-4701-B80D-4A0FEE1650A4",
+        "type": "message",
+        "text": "Hey! How are you doing today?",
+        "user": "U05S28X7ETB",
+        "ts": "1695772850.199629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S66",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! How are you doing today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "text": "Your Slack export has completed! You can download the file from <https:\/\/kentronhq.slack.com\/services\/export|your export page>.",
+        "user": "USLACKBOT",
+        "ts": "1696332491.327769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AButd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your Slack export has completed! You can download the file from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kentronhq.slack.com\/services\/export",
+                                "text": "your export page"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T05R93T7YDD",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

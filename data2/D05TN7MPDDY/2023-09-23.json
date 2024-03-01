@@ -1,0 +1,9 @@
+[
+    {
+        "type": "message",
+        "subtype": "joiner_notification",
+        "ts": "1695495383.430559",
+        "user": "U05TQLV3ZC4",
+        "text": "Satish joined Slack — take a second to say hello."
+    }
+]

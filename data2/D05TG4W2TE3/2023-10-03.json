@@ -1,0 +1,81 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "D05TG4W2TE3",
+        "room": {
+            "id": "R05UMD1TLKZ",
+            "name": "",
+            "media_server": "",
+            "created_by": "U05TQLV3ZC4",
+            "date_start": 1696397672,
+            "date_end": 1696399929,
+            "participants": [],
+            "participant_history": [
+                "U05TQLV3ZC4",
+                "U05TG4W1YUF"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1696397672.293809",
+            "thread_root_ts": "1696397672.293809",
+            "channels": [
+                "D05TG4W2TE3"
+            ],
+            "is_dm_call": true,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": true,
+            "has_ended": true,
+            "background_id": "ARIZONA",
+            "canvas_background": "ARIZONA",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "fda56f29-8d96-4708-8134-499ebc2e0706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/kentronhq.slack.com\/call\/R05UMD1TLKZ",
+        "subtype": "huddle_thread",
+        "ts": "1696397672.293809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Loj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T05R93T7YDD",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

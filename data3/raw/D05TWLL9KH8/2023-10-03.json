@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "5f1efe8e-0900-42ac-ab5b-a8684af2e763",
+        "type": "message",
+        "text": "Hey <@U05TQLV3ZC4>, had a call with Nikhil - regarding my availability. As he might have shared that we work late night, so it gets difficult to join the call. Apologies for it. Further, I'll try my best to join the calls also I'll start dropping updates on daily basis in dev-team channel.",
+        "user": "U05TTNUB27P",
+        "ts": "1696400230.297389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j0rs5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05TQLV3ZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", had a call with Nikhil - regarding my availability. As he might have shared that we work late night, so it gets difficult to join the call. Apologies for it. Further, I'll try my best to join the calls also I'll start dropping updates on daily basis in dev-team channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "reactions": [
+            {
+                "name": "thankyou",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

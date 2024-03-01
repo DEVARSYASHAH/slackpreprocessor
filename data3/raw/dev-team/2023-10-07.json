@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "33f69262-8cdb-4d20-bb32-30086ee3858c",
+        "type": "message",
+        "text": "DevTeam Syncup Updated for todays meet.",
+        "user": "U05TTNUB27P",
+        "ts": "1696662748.951059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pm2Kk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DevTeam Syncup Updated for todays meet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    }
+]

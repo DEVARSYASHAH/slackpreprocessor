@@ -1,0 +1,5 @@
+id,name,created,creator,is_archived,members,topic.value,topic.creator,topic.last_set,purpose.value,purpose.creator,purpose.last_set
+C061GBBLMQ8,FC:F061GBBLMQ8:Technical References,1697084627,USLACKBOT,False,"['U05TG4W1YUF', 'U05TQLV3ZC4']",,,0,,,0
+C05SCLAJUP2,FC:F05SCLAJUP2:Something that needs to get,1694352140,USLACKBOT,False,['U05S28VB3ED'],,,0,,,0
+C05TUBQF29M,FC:F05TUBQF29M:Important links,1695868188,USLACKBOT,False,['U05TQLV3ZC4'],,,0,,,0
+C05RSJWSZ1A,FC:F05RSJWSZ1A:https:__docs.google.com_spreadsheets_d_1tghhGW2wa4WljNgiWShK-E7ZWkoE-iltCgbs9H9A27Y_edit#gid=495813042,1694383662,USLACKBOT,False,[],,,0,,,0

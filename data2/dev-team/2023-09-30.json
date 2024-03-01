@@ -1,0 +1,494 @@
+[
+    {
+        "client_msg_id": "AF7AB36B-9473-4B68-BDEB-345E5397FD4C",
+        "type": "message",
+        "text": "<@U05TG4W1YUF>??",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696083217.723329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EJuZ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "CBB4391F-A192-4D59-B119-62026F2A739D",
+        "type": "message",
+        "text": "Hey ! Its weekend ! And I am out , away from\npc",
+        "user": "U05TG4W1YUF",
+        "ts": "1696083272.973909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3fpy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey ! Its weekend ! And I am out , away from\npc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "7E6D1539-AE7E-4AC4-8DCC-38C247C53F98",
+        "type": "message",
+        "text": "If you and Snehal are available, we can book 2 hours and prepare draft for architecture",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696083293.904689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "koD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you and Snehal are available, we can book 2 hours and prepare draft for architecture"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "7435EF81-CB57-42CF-897E-5C4C9F33276B",
+        "type": "message",
+        "text": "Can we do this on Monday?",
+        "user": "U05TG4W1YUF",
+        "ts": "1696083323.091229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KrpRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we do this on Monday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "634289DA-DC0A-43EF-BD35-D288D4CEC67D",
+        "type": "message",
+        "text": "Ok. Can we connect tomorrow? ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696083325.326829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TEq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok. Can we connect tomorrow? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "A36BA91E-28BB-4DD1-A85A-C24E63DD122D",
+        "type": "message",
+        "text": "From Monday we will be available. ! ",
+        "user": "U05TG4W1YUF",
+        "ts": "1696083370.038659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HkW9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From Monday we will be available. ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "B6C52EE7-2C0C-4915-BF49-E2EA44154231",
+        "type": "message",
+        "text": "Monday will work but we need to catch up up early. Around 9 AM IST ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696083385.932949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iuh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Monday will work but we need to catch up up early. Around 9 AM IST "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "66F82324-609A-4487-B380-A64DCD1ED204",
+        "type": "message",
+        "text": "Yeah possible ! ",
+        "user": "U05TG4W1YUF",
+        "ts": "1696083409.463779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvRiG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah possible ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "3209979F-E3C3-4DCA-9A66-9E9FB67EBA90",
+        "type": "message",
+        "text": "Ok. Please send invite ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696083460.181399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JSO7A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok. Please send invite "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "ECD54B4F-FF9E-49AE-844D-B0E28ED4D0B0",
+        "type": "message",
+        "text": "Enjoy weekend ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696083465.926839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NYSWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Enjoy weekend "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "9C1DAC4D-E49B-4FAE-8974-4F20FFA8C1C4",
+        "type": "message",
+        "text": "Yup ! Will send ! Thanks",
+        "user": "U05TG4W1YUF",
+        "ts": "1696083488.805569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WZf=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup ! Will send ! Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "EDDB7406-D15F-4E74-A544-64273C5FA5D6",
+        "type": "message",
+        "text": "Hey <@U05TQLV3ZC4> . Lets meet tomorrow PST time 10:00 am to anytime. ! Coz on monday I will be travelling at that time. Tomorrow works for me. ! ",
+        "user": "U05TG4W1YUF",
+        "ts": "1696111283.346989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3py",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05TQLV3ZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Lets meet tomorrow PST time 10:00 am to anytime. ! Coz on monday I will be travelling at that time. Tomorrow works for me. ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    }
+]

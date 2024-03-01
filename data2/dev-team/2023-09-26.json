@@ -1,0 +1,77 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1695791505.574099",
+        "user": "U05TZ4E0G5A",
+        "text": "<@U05TZ4E0G5A> has joined the channel",
+        "inviter": "U05RA88PCPR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1695791505.802939",
+        "user": "U05TG4W1YUF",
+        "text": "<@U05TG4W1YUF> has joined the channel",
+        "inviter": "U05RA88PCPR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1695791583.205669",
+        "user": "U05TQLV3ZC4",
+        "text": "<@U05TQLV3ZC4> has joined the channel",
+        "inviter": "U05RA88PCPR"
+    },
+    {
+        "client_msg_id": "ACB1F7E4-2A4C-4918-B6BC-F2655F707E56",
+        "type": "message",
+        "text": "<@U05TQLV3ZC4> Code pushed ",
+        "user": "U05TG4W1YUF",
+        "ts": "1695794775.524709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TQLV3ZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Code pushed "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

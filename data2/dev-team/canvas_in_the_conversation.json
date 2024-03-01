@@ -1,0 +1,26 @@
+[
+{
+    "id": "F061GBBLMQ8",
+    "created": 1697084607,
+    "name": "Technical_References",
+    "title": "Technical References",
+    "mimetype": "application\/vnd.slack-docs",
+    "filetype": "quip",
+    "pretty_type": "Canvas",
+    "user": "USLACKBOT",
+    "editable": true,
+    "size": 479,
+    "mode": "quip",
+    "is_public": false,
+    "is_tombstoned": false,
+    "public_url_shared": false,
+    "date_delete": 0,
+    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05R93T7YDD-F061GBBLMQ8\/download\/canvas?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+    "shares": [
+        {
+            "team": "T05R93T7YDD",
+            "channel": "C05TTC0DAJ1"
+        }
+    ]
+}
+]

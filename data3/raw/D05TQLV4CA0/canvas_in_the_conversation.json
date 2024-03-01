@@ -1,0 +1,26 @@
+[
+{
+    "id": "F05TUBQF29M",
+    "created": 1695868184,
+    "name": "Important_links",
+    "title": "Important links",
+    "mimetype": "application\/vnd.slack-docs",
+    "filetype": "quip",
+    "pretty_type": "Canvas",
+    "user": "USLACKBOT",
+    "editable": true,
+    "size": 168,
+    "mode": "quip",
+    "is_public": false,
+    "is_tombstoned": false,
+    "public_url_shared": false,
+    "date_delete": 0,
+    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05R93T7YDD-F05TUBQF29M\/download\/canvas?t=xoxe-5859129270455-6055085776481-6055085969137-dd15bf92da5787bbb1df770b9954eb00",
+    "shares": [
+        {
+            "team": "T05R93T7YDD",
+            "channel": "D05TQLV4CA0"
+        }
+    ]
+}
+]

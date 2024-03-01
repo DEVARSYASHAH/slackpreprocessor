@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "4ce0e896-c832-4469-87e8-4229daf7133a",
+        "type": "message",
+        "text": "Sign-in\/Sign-up, User data, Tenant, Connectors ( Slack, Google Workspace) , Admin.. !!",
+        "user": "U05TG4W1YUF",
+        "ts": "1696919115.174799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/LLA4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sign-in\/Sign-up, User data, Tenant, Connectors ( Slack, Google Workspace) , Admin.. !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    }
+]

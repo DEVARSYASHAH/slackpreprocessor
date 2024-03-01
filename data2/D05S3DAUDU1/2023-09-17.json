@@ -1,0 +1,310 @@
+[
+    {
+        "client_msg_id": "63c8797d-44e0-4ca9-b8f2-ec7d619ab73d",
+        "type": "message",
+        "text": "Follow this guy: <https:\/\/huryn.substack.com\/>",
+        "user": "U05RA88PCPR",
+        "ts": "1694981418.372099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NpK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Follow this guy: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/huryn.substack.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g931db43d4a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/931db43d4a6d897e598ead70ddaf1428.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Deactivate",
+            "real_name": "Deactivate",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "sam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/huryn.substack.com\/",
+                "image_url": "https:\/\/substackcdn.com\/image\/fetch\/f_auto,q_auto:best,fl_progressive:steep\/https%3A%2F%2Fhuryn.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-317609937%26version%3D9",
+                "image_width": 920,
+                "image_height": 480,
+                "image_bytes": 59684,
+                "service_icon": "https:\/\/substackcdn.com\/image\/fetch\/f_auto,q_auto:good,fl_progressive:steep\/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6f5119f-2915-4077-b218-1bd7ceb4ba2b%2Fapple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/huryn.substack.com\/",
+                "fallback": "The Product Compass with Paweł | Paweł Huryn | Substack",
+                "text": "Tens of thousands of subscribers. Actionable tips and resources for Product Managers. Every Saturday. Click to read The Product Compass with Paweł, by Paweł Huryn, a Substack publication.",
+                "title": "The Product Compass with Paweł | Paweł Huryn | Substack",
+                "title_link": "https:\/\/huryn.substack.com\/",
+                "service_name": "huryn.substack.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05S28X7ETB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3f4e97c-bc2f-456f-8cf2-24cf1fa804e0",
+        "type": "message",
+        "text": "<@U05S28X7ETB> - List of PMs : <https:\/\/docs.google.com\/spreadsheets\/d\/1lotZ2HXNaOBuAZoSKTmtOLgVgW11LiTS33gDmqfuGAk\/edit?usp=sharing>",
+        "user": "U05RA88PCPR",
+        "ts": "1694982553.300649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iaL9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05S28X7ETB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - List of PMs : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1lotZ2HXNaOBuAZoSKTmtOLgVgW11LiTS33gDmqfuGAk\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g931db43d4a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/931db43d4a6d897e598ead70ddaf1428.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Deactivate",
+            "real_name": "Deactivate",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "sam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D8D7CFBD-A8B3-4362-A6D9-D97C1C331E13",
+        "type": "message",
+        "text": "Thank youu so much!",
+        "user": "U05S28X7ETB",
+        "ts": "1694992342.108459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+5Rmj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank youu so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "0CAF635B-5745-4AEC-BAFB-85F6471EF5DD",
+        "type": "message",
+        "text": "Should i keep adding to that?",
+        "user": "U05S28X7ETB",
+        "ts": "1694992357.022959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kWvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should i keep adding to that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "2F5858A6-3BE9-4680-B52C-DF08192F7811",
+        "type": "message",
+        "text": "Means? ",
+        "user": "U05RA88PCPR",
+        "ts": "1694993428.572719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wiSxP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "eans? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g931db43d4a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/931db43d4a6d897e598ead70ddaf1428.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Deactivate",
+            "real_name": "Deactivate",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "sam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0BFBE990-4C28-4BDA-959F-8CB6C2FCD792",
+        "type": "message",
+        "text": "Should i add additional product managers that I come across to that list? ",
+        "user": "U05S28X7ETB",
+        "ts": "1694999951.223209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qrD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should i add additional product managers that I come across to that list? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "61049F24-47F3-48F9-A726-1186E56DDD98",
+        "type": "message",
+        "text": "Sure! You can ",
+        "user": "U05RA88PCPR",
+        "ts": "1695000552.174239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure! You can "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g931db43d4a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/931db43d4a6d897e598ead70ddaf1428.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Deactivate",
+            "real_name": "Deactivate",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "sam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

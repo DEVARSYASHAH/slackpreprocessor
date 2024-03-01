@@ -1,0 +1,511 @@
+[
+    {
+        "client_msg_id": "4DF5D8D8-AFBD-4240-86F3-ED6B8282F983",
+        "type": "message",
+        "text": "<!here> - Are we meeting? ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697261588.679189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ylVj6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Are we meeting? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "169966E5-747F-441C-A674-2AC4B52E590B",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> <@U05TTNUB27P> - Are we meeting? ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697261624.240539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O2eDF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05TTNUB27P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Are we meeting? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f49fb4ae-0c95-48a8-9b6d-7aca0699bdec",
+        "type": "message",
+        "text": "hey. yes, I'm in the meet.",
+        "user": "U05TTNUB27P",
+        "ts": "1697261734.009079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6n6Ac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey. yes, I'm in the meet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1697261734.009079",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697261804.293409",
+        "reply_users": [
+            "U05TQLV3ZC4"
+        ],
+        "replies": [
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1697261804.293409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1697261804.293409"
+    },
+    {
+        "client_msg_id": "96E0C815-59E8-47A3-80BC-147C3CDB01D1",
+        "type": "message",
+        "text": "Hey satish ! I am joining in 15 mins , Sajal is already there waiting for you",
+        "user": "U05TG4W1YUF",
+        "ts": "1697261782.932759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iblPe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey satish ! I am joining in 15 mins , Sajal is already there waiting for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1697261782.932759",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1697265878.308859",
+        "reply_users": [
+            "U05TQLV3ZC4",
+            "U05TG4W1YUF"
+        ],
+        "replies": [
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1697265567.221579"
+            },
+            {
+                "user": "U05TG4W1YUF",
+                "ts": "1697265861.319899"
+            },
+            {
+                "user": "U05TG4W1YUF",
+                "ts": "1697265878.308859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1697265878.308859"
+    },
+    {
+        "client_msg_id": "B4E5613B-0194-40E8-956A-CD80E3194613",
+        "type": "message",
+        "text": "I don’t see anyone",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697261804.293409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOIpj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " see anyone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697261734.009079",
+        "parent_user_id": "U05TTNUB27P"
+    },
+    {
+        "client_msg_id": "f29bcad7-2d34-4246-904c-313792e21b00",
+        "type": "message",
+        "text": "<https:\/\/meet.google.com\/tgc-sotz-swz>",
+        "user": "U05TTNUB27P",
+        "ts": "1697261819.589039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6PAoo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.google.com\/tgc-sotz-swz"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/meet.google.com\/tgc-sotz-swz",
+                "thumb_url": "https:\/\/fonts.gstatic.com\/s\/i\/productlogos\/meet_2020q4\/v1\/web-96dp\/logo_meet_2020q4_color_2x_web_96dp.png",
+                "thumb_width": 192,
+                "thumb_height": 192,
+                "service_icon": "http:\/\/fonts.gstatic.com\/s\/i\/productlogos\/meet_2020q4\/v1\/web-24dp\/logo_meet_2020q4_color_1x_web_24dp.png",
+                "id": 1,
+                "original_url": "https:\/\/meet.google.com\/tgc-sotz-swz",
+                "fallback": "Meet",
+                "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+                "title": "Meet",
+                "title_link": "https:\/\/meet.google.com\/tgc-sotz-swz",
+                "service_name": "meet.google.com"
+            }
+        ],
+        "thread_ts": "1697261819.589039",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697261999.349069",
+        "reply_users": [
+            "U05TQLV3ZC4"
+        ],
+        "replies": [
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1697261999.349069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1697261999.349069"
+    },
+    {
+        "client_msg_id": "176C19A0-A6EB-478D-8279-4CA54F2B7A4B",
+        "type": "message",
+        "text": "A min ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697261999.349069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+SO2r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A min "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697261819.589039",
+        "parent_user_id": "U05TTNUB27P",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05TTNUB27P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e18a01e2-773c-47f3-9517-10f7c4694b35",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> - Connect me to UI\/UX lady",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697265567.221579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pOyrF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Connect me to UI\/UX lady"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697261782.932759",
+        "parent_user_id": "U05TG4W1YUF"
+    },
+    {
+        "client_msg_id": "055293B8-6AD8-4107-885D-8C65CBE050E3",
+        "type": "message",
+        "text": "I sent her your whatsapp",
+        "user": "U05TG4W1YUF",
+        "ts": "1697265861.319899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o02w4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I sent her your whatsapp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1697261782.932759",
+        "parent_user_id": "U05TG4W1YUF"
+    },
+    {
+        "client_msg_id": "A497659F-A6B1-4261-951F-6D33B71A8465",
+        "type": "message",
+        "text": "She will text",
+        "user": "U05TG4W1YUF",
+        "ts": "1697265878.308859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uozfQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "She will text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1697261782.932759",
+        "parent_user_id": "U05TG4W1YUF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

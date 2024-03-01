@@ -1,0 +1,163 @@
+[
+    {
+        "client_msg_id": "34d85c98-5bff-4ecc-85ce-1de3a8168ef0",
+        "type": "message",
+        "text": "1. Independent schemas\n2. File upload Option\n3. prod &amp; test server\n4. Micro-service -- Maybe\n5. Diff pipeline for different app\n6. Usage of each component to be updated in Architecture.\n7. Optimization of Uploading file i.e if possible, we are passing it through a pre-process layer so that we will only save clean data ( removal of duplicates, null values etc ) -- Research\n8. Providing confidence score before processing. using ML ( Bag of words )\n9. Explore - <https:\/\/cloud.google.com\/architecture\/framework\/system-design\/data-analytics>\n10. User Management for Application ( Kentron )\n11. Data Encryption -- Research [ <https:\/\/onna.com\/trust-center-data-security> }\n12. Usage of ML wherever possible.\n",
+        "user": "U05TTNUB27P",
+        "ts": "1696662421.821979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zjq",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Independent schemas"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "File upload Option"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "prod & test server"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Micro-service -- Maybe"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Diff pipeline for different app"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Usage of each component to be updated in Architecture."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Optimization of Uploading file i.e if possible, we are passing it through a pre-process layer so that we will only save clean data ( removal of duplicates, null values etc ) -- Research"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Providing confidence score before processing. using ML ( Bag of words )"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Explore - "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/cloud.google.com\/architecture\/framework\/system-design\/data-analytics"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "User Management for Application ( Kentron )"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Data Encryption -- Research [ "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/onna.com\/trust-center-data-security"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " }"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Usage of ML wherever possible."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    }
+]

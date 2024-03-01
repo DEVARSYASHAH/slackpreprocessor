@@ -1,0 +1,311 @@
+[
+    {
+        "client_msg_id": "5c907c42-e16d-49df-9146-83152f24881f",
+        "type": "message",
+        "text": "Hay <@U05S28X7ETB> - I forgot to ask you, where are you based in?",
+        "user": "U05S28VB3ED",
+        "ts": "1694836057.633369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zurx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hay "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05S28X7ETB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I forgot to ask you, where are you based in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "gdecdc160d1f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/decdc160d1fb43b4036ae529a277ba4d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "admin",
+            "real_name": "admin",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "admin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2F94E5F8-C2D5-4707-88C3-1F8064ECF303",
+        "type": "message",
+        "text": "Heyy! Currently I am in Washington ",
+        "user": "U05S28X7ETB",
+        "ts": "1694836908.124209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Lho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heyy! Currently I am in Washington "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1694836908.124209",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1694886556.065169",
+        "reply_users": [
+            "U05S28VB3ED",
+            "U05S28X7ETB"
+        ],
+        "replies": [
+            {
+                "user": "U05S28VB3ED",
+                "ts": "1694838154.682569"
+            },
+            {
+                "user": "U05S28X7ETB",
+                "ts": "1694886556.065169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05S28VB3ED"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7338814-176b-491a-b443-1724ce71b88e",
+        "type": "message",
+        "text": "<@U05S28X7ETB> - We can meet early in the morning if you're available",
+        "user": "U05S28VB3ED",
+        "ts": "1694838149.793759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dRP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05S28X7ETB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - We can meet early in the morning if you're available"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "gdecdc160d1f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/decdc160d1fb43b4036ae529a277ba4d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "admin",
+            "real_name": "admin",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "admin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aa2d5ef3-1a94-4f98-a38a-7f809d23c108",
+        "type": "message",
+        "text": "DC?",
+        "user": "U05S28VB3ED",
+        "ts": "1694838154.682569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bWDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DC?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "gdecdc160d1f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/decdc160d1fb43b4036ae529a277ba4d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "admin",
+            "real_name": "admin",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "admin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1694836908.124209",
+        "parent_user_id": "U05S28X7ETB"
+    },
+    {
+        "client_msg_id": "21B9E7E4-2CB4-419B-BF54-20E8876A78C0",
+        "type": "message",
+        "text": "No in PST",
+        "user": "U05S28X7ETB",
+        "ts": "1694838583.878129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fQHlA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No in PST"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "1C9C5990-63B4-4187-921C-D9B42EC4EB5F",
+        "type": "message",
+        "text": "What time do want to catch up",
+        "user": "U05S28X7ETB",
+        "ts": "1694838604.958759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tD1om",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What time do want to catch up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "375d9ba4-b69b-46fd-8377-734f7a0f0652",
+        "type": "message",
+        "text": "9:30 AM PST?",
+        "user": "U05S28VB3ED",
+        "ts": "1694841050.764389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lg7c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9:30 AM PST?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "gdecdc160d1f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/decdc160d1fb43b4036ae529a277ba4d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "admin",
+            "real_name": "admin",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "admin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

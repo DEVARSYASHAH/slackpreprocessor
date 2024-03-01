@@ -1,0 +1,392 @@
+[
+    {
+        "client_msg_id": "960888d4-4ed9-4e93-a463-e4ccf701e809",
+        "type": "message",
+        "text": "Thank you <@U05TQLV3ZC4>.  If premium kicks-in early, please share the export data.",
+        "user": "U05TTNUB27P",
+        "ts": "1696575791.229689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "377Sx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05TQLV3ZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".  If premium kicks-in early, please share the export data."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696416290.226849",
+        "parent_user_id": "U05TTNUB27P"
+    },
+    {
+        "client_msg_id": "CCA86D5C-1274-4562-9B84-020EC910B069",
+        "type": "message",
+        "text": "We are now on premium. They were able to change effective date ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696650838.337789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZlqhZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "e are now on premium. They were able to change effective date "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696416290.226849",
+        "parent_user_id": "U05TTNUB27P"
+    },
+    {
+        "client_msg_id": "83851B39-C582-43F8-BB29-AB7F9761D671",
+        "type": "message",
+        "text": "<!here> - Are we still meeting? ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696653250.954399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gh2L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Are we still meeting? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A7BEA777-5FC5-4F86-BE64-7A5BBA659B2E",
+        "type": "message",
+        "text": "In 1 hr, I guess. Invite has been sent",
+        "user": "U05TG4W1YUF",
+        "ts": "1696653425.307039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ux3O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In 1 hr, I guess"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Invite has been sent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21bbdc8b-928e-4415-9d0c-ab58aa9576af",
+        "type": "message",
+        "text": "<https:\/\/meet.google.com\/tgc-sotz-swz>",
+        "user": "U05TG4W1YUF",
+        "ts": "1696656617.315099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n3H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.google.com\/tgc-sotz-swz"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/meet.google.com\/tgc-sotz-swz",
+                "thumb_url": "https:\/\/fonts.gstatic.com\/s\/i\/productlogos\/meet_2020q4\/v1\/web-96dp\/logo_meet_2020q4_color_2x_web_96dp.png",
+                "thumb_width": 192,
+                "thumb_height": 192,
+                "service_icon": "http:\/\/fonts.gstatic.com\/s\/i\/productlogos\/meet_2020q4\/v1\/web-24dp\/logo_meet_2020q4_color_1x_web_24dp.png",
+                "id": 1,
+                "original_url": "https:\/\/meet.google.com\/tgc-sotz-swz",
+                "fallback": "Meet",
+                "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+                "title": "Meet",
+                "title_link": "https:\/\/meet.google.com\/tgc-sotz-swz",
+                "service_name": "meet.google.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "585ebb0d-81a5-4b4c-bab1-53fb4889138e",
+        "type": "message",
+        "text": "<@U05TQLV3ZC4>",
+        "user": "U05TG4W1YUF",
+        "ts": "1696656623.153319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V4D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TQLV3ZC4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "542c141b-2e4d-4079-8205-e25a4d41f6ae",
+        "type": "message",
+        "text": "<https:\/\/cloud.google.com\/architecture\/de-identification-re-identification-pii-using-cloud-dlp>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696660595.463989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PTsmf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cloud.google.com\/architecture\/de-identification-re-identification-pii-using-cloud-dlp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/cloud.google.com\/architecture\/de-identification-re-identification-pii-using-cloud-dlp",
+                "image_url": "https:\/\/cloud.google.com\/_static\/cloud\/images\/social-icon-google-cloud-1200-630.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 17405,
+                "service_icon": "https:\/\/www.gstatic.com\/devrel-devsite\/prod\/v85a00308211ae0e76f4048e4f8440e0b4d866dea310d9c231254526f46e6d3e3\/cloud\/images\/favicons\/onecloud\/super_cloud.png",
+                "id": 1,
+                "original_url": "https:\/\/cloud.google.com\/architecture\/de-identification-re-identification-pii-using-cloud-dlp",
+                "fallback": "Google Cloud: De-identification and re-identification of PII in large-scale datasets using Sensitive Data Protection  |  Cloud Architecture Center  |  Google Cloud",
+                "title": "De-identification and re-identification of PII in large-scale datasets using Sensitive Data Protection  |  Cloud Architecture Center  |  Google Cloud",
+                "title_link": "https:\/\/cloud.google.com\/architecture\/de-identification-re-identification-pii-using-cloud-dlp",
+                "service_name": "Google Cloud"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67465a86-bbfe-4b19-9af2-3fe7abda1138",
+        "type": "message",
+        "text": "<https:\/\/cloud.google.com\/architecture\/framework\/system-design\/data-analytics>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696660724.964879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QWzh8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cloud.google.com\/architecture\/framework\/system-design\/data-analytics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/cloud.google.com\/architecture\/framework\/system-design\/data-analytics",
+                "image_url": "https:\/\/cloud.google.com\/_static\/cloud\/images\/social-icon-google-cloud-1200-630.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 17405,
+                "service_icon": "https:\/\/www.gstatic.com\/devrel-devsite\/prod\/v85a00308211ae0e76f4048e4f8440e0b4d866dea310d9c231254526f46e6d3e3\/cloud\/images\/favicons\/onecloud\/super_cloud.png",
+                "id": 1,
+                "original_url": "https:\/\/cloud.google.com\/architecture\/framework\/system-design\/data-analytics",
+                "fallback": "Google Cloud: Analyze your data  |  Architecture Framework  |  Google Cloud",
+                "text": "Architecture Framework system design recommendations and best practices",
+                "title": "Analyze your data  |  Architecture Framework  |  Google Cloud",
+                "title_link": "https:\/\/cloud.google.com\/architecture\/framework\/system-design\/data-analytics",
+                "service_name": "Google Cloud"
+            }
+        ]
+    }
+]

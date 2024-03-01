@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "33b23e6b-b6cb-4354-8a23-78cc31a11dbd",
+        "type": "message",
+        "text": "Hello Mrunal - Hope all is well. Sorry for disappearing for a week. I had viral infection so took off from work completely.",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696914441.341929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LQ+tG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Mrunal - Hope all is well. Sorry for disappearing for a week. I had viral infection so took off from work completely."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5f3a878d-5750-42f4-b3d7-36493ff76fc5",
+        "type": "message",
+        "text": "Let's me how things are going at your end and what time you'd like to connect tomorrow",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696914458.651469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ClwHi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's me how things are going at your end and what time you'd like to connect tomorrow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

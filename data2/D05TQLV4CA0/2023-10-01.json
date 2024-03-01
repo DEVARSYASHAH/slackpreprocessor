@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "2d5495a9-88cf-4362-a20a-6c59a6541644",
+        "type": "message",
+        "text": "<https:\/\/www.linkedin.com\/posts\/pawel-huryn_35-free-tools-for-product-managers-activity-7114301906516086784-h8Ty>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696197651.307689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3iX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/pawel-huryn_35-free-tools-for-product-managers-activity-7114301906516086784-h8Ty"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/pawel-huryn_35-free-tools-for-product-managers-activity-7114301906516086784-h8Ty",
+                "image_url": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/c45fy346jw096z9pbphyyhdz7",
+                "image_width": 1400,
+                "image_height": 800,
+                "image_bytes": 34857,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/pawel-huryn_35-free-tools-for-product-managers-activity-7114301906516086784-h8Ty",
+                "fallback": "Paweł Huryn :flag-ua: on LinkedIn: 35 Free Tools for Product Managers | 28 comments",
+                "text": "I found a fantastic set of 35 free tools for PMs by Strategyzer :heart_eyes: \n\nThe collection includes:\n\n1. The Experiment Library\n2. The Disruption Risk Assessment\n3… | 28 comments on LinkedIn",
+                "title": "Paweł Huryn :flag-ua: on LinkedIn: 35 Free Tools for Product Managers | 28 comments",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/pawel-huryn_35-free-tools-for-product-managers-activity-7114301906516086784-h8Ty",
+                "service_name": "linkedin.com"
+            }
+        ]
+    }
+]

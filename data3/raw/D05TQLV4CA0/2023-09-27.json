@@ -1,0 +1,423 @@
+[
+    {
+        "client_msg_id": "CE0ECF46-14F9-451C-B95F-6AAE4F135BB0",
+        "type": "message",
+        "text": "Hey",
+        "user": "U05S28X7ETB",
+        "ts": "1695861045.164009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ppM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "77B0F0BC-E083-4BFC-AC59-2255AC32478E",
+        "type": "message",
+        "text": "Lets connect?",
+        "user": "U05S28X7ETB",
+        "ts": "1695861052.233859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7hY6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lets connect"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "16CF31B4-0D02-42BE-B082-4142D54A7587",
+        "type": "message",
+        "text": "Opps! Just saw your message message ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695864066.578309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LVb0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Opps! Just saw your message message "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5CDE1EF5-B496-472F-A033-CAAC756638E5",
+        "type": "message",
+        "text": "Sorry about that. Can we connect at 730? ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695864083.486289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nchd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry about that. Can we connect at 730? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F4D042A3-7A87-405F-8560-4E475A170E4C",
+        "type": "message",
+        "text": "Pm ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695864086.021009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pDZ=O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pm "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3808E56C-492C-4DEB-8E10-FD3A775CED5A",
+        "type": "message",
+        "text": "Sounds good",
+        "user": "U05S28X7ETB",
+        "ts": "1695866348.885679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "D05TQLV4CA0",
+        "room": {
+            "id": "R05U8TFCGJE",
+            "name": "",
+            "media_server": "",
+            "created_by": "U05S28X7ETB",
+            "date_start": 1695868199,
+            "date_end": 1695870743,
+            "participants": [],
+            "participant_history": [
+                "U05S28X7ETB",
+                "U05TQLV3ZC4"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1695868199.596499",
+            "thread_root_ts": "1695868199.596499",
+            "channels": [
+                "D05TQLV4CA0"
+            ],
+            "is_dm_call": true,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": true,
+            "has_ended": true,
+            "background_id": "GRADIENT_01",
+            "canvas_background": "GRADIENT_01",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "fa37aaf9-07db-4d01-96dd-707447800706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/kentronhq.slack.com\/call\/R05U8TFCGJE",
+        "subtype": "huddle_thread",
+        "ts": "1695868199.596499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B4c3+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T05R93T7YDD",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1695868199.596499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1695868634.037529",
+        "reply_users": [
+            "U05S28X7ETB"
+        ],
+        "replies": [
+            {
+                "user": "U05S28X7ETB",
+                "ts": "1695868634.037529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aca747f1-db3b-4c4a-930f-a3380c8d05bd",
+        "type": "message",
+        "text": "<mailto:payagudemrunal@gmail.com|payagudemrunal@gmail.com>",
+        "user": "U05S28X7ETB",
+        "ts": "1695868634.037529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jlb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:payagudemrunal@gmail.com",
+                                "text": "payagudemrunal@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1695868199.596499",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "0e8d8ca1-cd7d-4031-b2c3-f722a5b75aa4",
+        "type": "message",
+        "text": "<https:\/\/www.unusual.vc\/>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695869183.572509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PI7aE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.unusual.vc\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.unusual.vc\/",
+                "image_url": "https:\/\/global-uploads.webflow.com\/5e46e7043e3aadf6a3f88577\/611aa8dc6f961be34f9bb5bd_Open%20Graph_General.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 58124,
+                "id": 1,
+                "original_url": "https:\/\/www.unusual.vc\/",
+                "fallback": "Unusual Ventures – Your Partner For The Journey Ahead",
+                "text": "Unusual Ventures is raising the bar for what founders should expect from their venture investors and enabling startups with the support they need to be successful.",
+                "title": "Unusual Ventures – Your Partner For The Journey Ahead",
+                "title_link": "https:\/\/www.unusual.vc\/",
+                "service_name": "unusual.vc"
+            }
+        ]
+    }
+]

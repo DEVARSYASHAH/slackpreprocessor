@@ -1,0 +1,766 @@
+[
+    {
+        "client_msg_id": "F1D13DC4-2C09-4471-A689-5280760FAA48",
+        "type": "message",
+        "text": "<@U05TTNUB27P> - Can you please review this company website and learn more about them? That are claiming to process data from various Connectors without bringing to their platform. <https:\/\/pryon.com\/platform-2\/|https:\/\/pryon.com\/platform-2\/>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695799676.418829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Glg1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TTNUB27P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Can you please review this company website and learn more about them? That are claiming to process data from various Connectors without bringing to their platform. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pryon.com\/platform-2\/",
+                                "text": "https:\/\/pryon.com\/platform-2\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/pryon.com\/platform-2\/",
+                "service_icon": "https:\/\/pryon.com\/wp-content\/uploads\/2021\/01\/cropped-Pryon_Icon_E-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/pryon.com\/platform-2\/",
+                "fallback": "Pryon: Platform - Pryon",
+                "text": "Platform -",
+                "title": "Platform - Pryon",
+                "title_link": "https:\/\/pryon.com\/platform-2\/",
+                "service_name": "Pryon",
+                "fields": [
+                    {
+                        "value": "23 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1695799676.418829",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1695825644.575909",
+        "reply_users": [
+            "U05TTNUB27P",
+            "U05TQLV3ZC4"
+        ],
+        "replies": [
+            {
+                "user": "U05TTNUB27P",
+                "ts": "1695821553.988239"
+            },
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1695825644.575909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1695825644.575909"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1695821483.230769",
+        "user": "U05TTNUB27P",
+        "text": "<@U05TTNUB27P> has joined the channel"
+    },
+    {
+        "client_msg_id": "c6c8966b-55dd-4837-bd01-545e59dd1cba",
+        "type": "message",
+        "text": "Sure <@U05TQLV3ZC4> Will do. Apologies I missed the invitation.",
+        "user": "U05TTNUB27P",
+        "ts": "1695821553.988239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8VnJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05TQLV3ZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Will do. Apologies I missed the invitation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1695799676.418829",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "18b88d4d-4814-43e1-ac7b-5892e370414f",
+        "type": "message",
+        "text": "no worries",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695825644.575909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cb\/5t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no worries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1695799676.418829",
+        "parent_user_id": "U05TQLV3ZC4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05TTNUB27P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "627c442d-ad04-49c3-bed6-b01d1a7ae862",
+        "type": "message",
+        "text": "<@U05TQLV3ZC4> We went through the website, and it seems either they are saving it in cache memory ( temporary memory ) or using an approach called RAG - which requires database. If you can share the article or post where they claimed regarding not bringing data to their platform, it'll help us dive more into it.",
+        "user": "U05TTNUB27P",
+        "ts": "1695843933.673409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xldtv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TQLV3ZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We went through the website, and it seems either they are saving it in cache memory ( temporary memory ) or using an approach called RAG - which requires database. If you can share the article or post where they claimed regarding not bringing data to their platform, it'll help us dive more into it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g0511a7e9b80",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0511a7e9b80becbfe0e28c0728630010.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sajal",
+            "real_name": "Sajal",
+            "display_name": "Sajal",
+            "team": "T05R93T7YDD",
+            "name": "sajals1146",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28aa9186-05a6-4c0c-bd7f-49cde9af8f9c",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> - Please check your inbox. I've shared Headp Analytics. Please get it integrated with the web app. All we need to is put at the top of each page",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695868460.070019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IpSM9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Please check your inbox. I've shared Headp Analytics. Please get it integrated with the web app. All we need to is put at the top of each page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d558d0ed-8961-4730-b863-175810c42fa9",
+        "type": "message",
+        "text": "`Hi! I'm trying to set up a tool called Heap to better understand how users are using our product. Could you help me set up Heap in our product?`\n\n`For web, it's as easy as adding the snippet below to our &lt;head&gt; tag.`\n`For mobile, here are the installation instructions for iOS (<https:\/\/developers.heap.io\/docs\/ios>) and Android (<https:\/\/developers.heap.io\/docs\/android>).`\n\n  `&lt;script type=\"text\/javascript\"&gt;`\n      `window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=document.createElement(\"script\");r.type=\"text\/javascript\",r.async=!0,r.src=\"<https:\/\/cdn.heapanalytics.com\/js\/heap->\"+e+\".js\";var a=document.getElementsByTagName(\"script\")[0];a.parentNode.insertBefore(r,a);for(var n=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=[\"addEventProperties\",\"addUserProperties\",\"clearEventProperties\",\"identify\",\"resetIdentity\",\"removeEventProperty\",\"setEventProperties\",\"track\",\"unsetEventProperty\"],o=0;o&lt;p.length;o++)heap[p[o]]=n(p[o])};`\n      `heap.load(\"197090461\");`\n  `&lt;\/script&gt;`\n\n`It should just take a couple minutes to install, needs no ongoing maintenance, and won't slow down our site (<https:\/\/heap.io\/blog\/keep-calm-and-track-on-why-heaps-script-wont-slow-down-your-site>).`\n\n`Here is a link to the documentation about setup and security (<https:\/\/developers.heap.io\/docs\/web>).`",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695868497.365149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1d9v6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! I'm trying to set up a tool called Heap to better understand how users are using our product. Could you help me set up Heap in our product?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "For web, it's as easy as adding the snippet below to our <head> tag.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "For mobile, here are the installation instructions for iOS (",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developers.heap.io\/docs\/ios",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") and Android (",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developers.heap.io\/docs\/android",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ").",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  <script type=\"text\/javascript\">",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "      window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=document.createElement(\"script\");r.type=\"text\/javascript\",r.async=!0,r.src=\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cdn.heapanalytics.com\/js\/heap-",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"+e+\".js\";var a=document.getElementsByTagName(\"script\")[0];a.parentNode.insertBefore(r,a);for(var n=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=[\"addEventProperties\",\"addUserProperties\",\"clearEventProperties\",\"identify\",\"resetIdentity\",\"removeEventProperty\",\"setEventProperties\",\"track\",\"unsetEventProperty\"],o=0;o<p.length;o++)heap[p[o]]=n(p[o])};",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "      heap.load(\"197090461\");",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  <\/script>",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "It should just take a couple minutes to install, needs no ongoing maintenance, and won't slow down our site (",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/heap.io\/blog\/keep-calm-and-track-on-why-heaps-script-wont-slow-down-your-site",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ").",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Here is a link to the documentation about setup and security (",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developers.heap.io\/docs\/web",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ").",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "70FDA8AD-EAFD-47C9-99FB-AB03E7AD27C0",
+        "type": "message",
+        "text": "yeah i will add",
+        "user": "U05TG4W1YUF",
+        "ts": "1695870654.658889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LaR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah i will add"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "reactions": [
+            {
+                "name": "thankyou",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b958de6a-6755-4085-b206-99611362213e",
+        "type": "message",
+        "text": "Keycloak",
+        "user": "U05TG4W1YUF",
+        "ts": "1695880650.915249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Keycloak"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "185738b0-7571-4160-b662-c60c9ae028fa",
+        "type": "message",
+        "text": "<https:\/\/www.keycloak.org\/>",
+        "user": "U05TG4W1YUF",
+        "ts": "1695880773.150689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TI6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.keycloak.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.keycloak.org\/",
+                "service_icon": "https:\/\/www.keycloak.org\/resources\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.keycloak.org\/",
+                "fallback": "Keycloak",
+                "text": "Keycloak is an open source identity and access management solution",
+                "title": "Keycloak",
+                "title_link": "https:\/\/www.keycloak.org\/",
+                "service_name": "keycloak.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7c9f48f-894c-423a-b97e-e12243de4fc3",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/14SGqqQfwWe8MkWfpSPdOq3wnBMQ_kCKfHxXxo6jIGIQ\/edit?mode=html#heading=h.lyw9gc7l7zh6>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695881157.711819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4yuch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/14SGqqQfwWe8MkWfpSPdOq3wnBMQ_kCKfHxXxo6jIGIQ\/edit?mode=html#heading=h.lyw9gc7l7zh6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5846b2f0-35da-48d4-a2cc-166c5de0347f",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> - Send me link of icons library",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695882093.550619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4R=JL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Send me link of icons library"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ec55d166-09b8-4afb-bdf1-1f5657fe6b50",
+        "type": "message",
+        "text": "<https:\/\/www.flaticon.com\/free-icons\/outline>",
+        "user": "U05TG4W1YUF",
+        "ts": "1695882160.089919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/NX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.flaticon.com\/free-icons\/outline"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.flaticon.com\/free-icons\/outline",
+                "image_url": "https:\/\/media.flaticon.com\/share\/flaticon-generic.jpg",
+                "image_width": 2161,
+                "image_height": 1217,
+                "image_bytes": 116116,
+                "service_icon": "https:\/\/media.flaticon.com\/dist\/min\/img\/apple-icon-57x57-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.flaticon.com\/free-icons\/outline",
+                "fallback": "Flaticon: 14,900 Free icons of outline",
+                "text": "Download over 14,900 icons of outline in SVG, PSD, PNG, EPS format or as web fonts.\n Flaticon, the largest database of free icons.",
+                "title": "14,900 Free icons of outline",
+                "title_link": "https:\/\/www.flaticon.com\/free-icons\/outline",
+                "service_name": "Flaticon"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thankyou",
+                "users": [
+                    "U05TQLV3ZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

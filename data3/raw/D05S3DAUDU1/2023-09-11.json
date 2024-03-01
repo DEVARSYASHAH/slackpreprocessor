@@ -1,0 +1,261 @@
+[
+    {
+        "client_msg_id": "BD79D20F-1A58-4079-8221-6B6F615DCB1C",
+        "type": "message",
+        "text": "<@U05S28X7ETB> - <https:\/\/jobs.ashbyhq.com\/ramp\/29663a4b-c457-4a38-bbdf-069f189b20eb|https:\/\/jobs.ashbyhq.com\/ramp\/29663a4b-c457-4a38-bbdf-069f189b20eb>",
+        "user": "U05RA88PCPR",
+        "ts": "1694485752.809869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "evU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05S28X7ETB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.ashbyhq.com\/ramp\/29663a4b-c457-4a38-bbdf-069f189b20eb",
+                                "text": "https:\/\/jobs.ashbyhq.com\/ramp\/29663a4b-c457-4a38-bbdf-069f189b20eb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g931db43d4a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/931db43d4a6d897e598ead70ddaf1428.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Deactivate",
+            "real_name": "Deactivate",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "sam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/jobs.ashbyhq.com\/ramp\/29663a4b-c457-4a38-bbdf-069f189b20eb",
+                "service_icon": "https:\/\/cdn.ashbyprd.com\/cdn_assets\/29ce906453da5c3e8c19a1ef7ed459c26cda2fad\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/jobs.ashbyhq.com\/ramp\/29663a4b-c457-4a38-bbdf-069f189b20eb",
+                "fallback": "New Grad 2024 | Software Engineer | Backend",
+                "text": "Ramp is the ultimate platform for modern finance teams. Combining corporate cards with expense management, bill payments, vendor management, accounting automation and more, Ramp's all-in-one solution is designed to save businesses time and money, and free finance teams to do the best work of their lives. Our mission is to help build healthier businesses, and it’s working: over 15,000 businesses on Ramp save an average 3.5% more and close their books 8x faster.\n\nFounded in 2019, Ramp powers the fastest-growing corporate card and bill payment platform in America, and enables tens of billions of dollars in purchases each year.\n\nRamp's investors include Founders Fund, Stripe, Citi, Goldman Sachs, Coatue Management, D1 Capital Partners, Redpoint Ventures, General Catalyst, and Thrive Capital, as well as over 100 angel investors who were founders or executives of leading companies. The Ramp team comprises talented leaders from leading financial services and fintech companies—Stripe, Affirm, Goldman Sachs, American Express, Mastercard, Visa, Capital One—as well as technology companies such as Meta, Uber, Netflix, Twitter, Dropbox, and Instacart. In 2023, Ramp was named Fast Company’s #1 Most Innovative Company in North America, a CNBC Disruptor, and a TIME100 Most Influential Company.\n\nCheck out our Engineering Blog <https:\/\/engineering.ramp.com\/> for more on our tech stack, mission and values!\n\nAbout the Role\n\nRamp is, at its core, an engineering company, and is on a mission to build the best engineering team in the US! We are looking for full stack and platform engineers who are excited to be part of our early story and help us build a diverse and vibrant tech community. We hire engineers with a broad set of technical skills, who are highly cross-functional, and eager to solve a wide range of engineering challenges. Our ideal candidate has a strong sense of ownership and enjoys owning projects from inception to scaling it in production. We value people who take pride in their work, and show an aptitude for learning quickly whether they’re familiar with our stack or not. As an early employee, you'll be working with a nimble team of committed and talented engineers and having a large, long-term impact on technical design and engineering culture.\n\nWhat You’ll Do\n\n - Build performant and scalable platforms and services powering Ramp’s innovative products\n\n - Contribute to Ramp’s financial products platform (Risk, Fraud, Treasury Management) and\/or savings and web-app platform (Savings Insights, Receipt Matching)\n\n - Work closely with product and business teams to understand customer feedback in order to constantly improve our product\n\n - Help establish and influence engineering process, tools, and systems that will allow us to scale the code base, productivity, and the team\n\nWhat You'll Need\n\n - Graduating with a B.S. (or higher) in Computer Science or a related technical field; this role is ideal for a candidate with an expected graduation date in or around May 2024 given the deferred start date in Summer\/Fall 2024\n\n - Track record of shipping high quality products and features at scale\n\n - Ability to turn business and product ideas into engineering solutions\n\n - Desire to work in a fast-paced environment, continuously grow, and master your craft\n\n - Alignment with Ramp’s core values of enabling businesses to grow more by spending less\n\nNice to Haves\n\n - Familiarity with or desire to learn our tech stack which includes, but not limited to: Flask (Python), Elixir, AWS, RabbitMQ, PostgreSQL\n\n - Passion for, or curiosity to learn, financial technology\n\nAbout Our Teams\n\n - Core Product helps customers centralize and control their corporate spend through Credit Cards, Travel Management, Reimbursements\/Expense Management\n\n - Risk and Authorizer builds real-time and offline systems for risk decisioning, transaction &amp; spend authorization, and on-going risk\/fraud mitigation\n\n - Payments focuses on all off-card money movement at Ramp (including ACH, Wires, Swift, and vertically integrated products such as BillPay <https:\/\/billpay.com\/>)\n\n - Foundations owns critical frameworks and processes to increase the velocity of Ramp Engineers, while improving resiliency, and security\n\n - Ramp's UI Platform are the stewards of the frontend codebase architecture and responsible for Ramp apps' usability\n\nCompensation\n\n - The annual salary\/OTE range for the target level for this role in NYC is $127,500-$150,000 + target equity + benefits (including medical, dental, vision, and 401(k)\n\nRamp Benefits (for U.S. based employees)\n\n - 100% medical, dental &amp; vision insurance coverage for you\n \n - Partially covered for your dependents\n \n - One Medical annual membership\n\n - 401k (including employer match on contributions made while employed by Ramp)\n\n - Flexible PTO\n\n - Fertility HRA (up to $5,000 per year)\n\n - WFH stipend to support your home office needs\n\n - Wellness stipend\n\n - Parental Leave\n\n - Relocation support\n\n - Pet insurance",
+                "title": "New Grad 2024 | Software Engineer | Backend",
+                "title_link": "https:\/\/jobs.ashbyhq.com\/ramp\/29663a4b-c457-4a38-bbdf-069f189b20eb",
+                "service_name": "jobs.ashbyhq.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A1A8E21B-9A7E-4CB5-817E-876EC720EB50",
+        "type": "message",
+        "text": "Hey! Not sure I understand why you sent this.. ",
+        "user": "U05S28X7ETB",
+        "ts": "1694485967.504079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g0bR2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! Not sure I understand why you sent this.. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "D1B4E6DC-C294-4F9B-9983-107CAE5ACBF5",
+        "type": "message",
+        "text": "Came across the opportunity. Thought you might be interested ",
+        "user": "U05RA88PCPR",
+        "ts": "1694488632.221489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XhS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Came across the opportunity. Thought you might be interested "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g931db43d4a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/931db43d4a6d897e598ead70ddaf1428.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Deactivate",
+            "real_name": "Deactivate",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "sam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5CC3E301-3EFD-4CC4-A66E-3A36D017DCB5",
+        "type": "message",
+        "text": "Opps! My bad. Just noticed it is for 2024 grades",
+        "user": "U05RA88PCPR",
+        "ts": "1694488660.545579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B6W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Opps! My bad. Just noticed it is for 2024 grades"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g931db43d4a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/931db43d4a6d897e598ead70ddaf1428.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Deactivate",
+            "real_name": "Deactivate",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "sam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E1AB572E-DF5C-420F-9EC0-C7D420232F67",
+        "type": "message",
+        "text": "Oh! Thank you! Yeah haha usually graduate roles are for 2024",
+        "user": "U05S28X7ETB",
+        "ts": "1694488685.830589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jV0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh! Thank you! Yeah haha usually graduate roles are for 2024"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05RA88PCPR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "905F323C-4BF1-4AB1-BEB0-9F32A5EFA531",
+        "type": "message",
+        "text": "Thank you though",
+        "user": "U05S28X7ETB",
+        "ts": "1694488691.568899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g2d717323607",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d71732360714346e11945b4d3b04767.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Mrunal",
+            "real_name": "Mrunal Payagude",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "payagude.m",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    }
+]

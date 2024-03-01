@@ -1,0 +1,242 @@
+[
+    {
+        "client_msg_id": "3DD29842-7689-4C4B-92F7-373C0AD07FE6",
+        "type": "message",
+        "text": "Guys - I've guests at home. Can we connect later or you can  share quick update? ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696052558.371309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i3hqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guys - I've guests at home. Can we connect later or you can  share quick update? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696052558.371309",
+        "reply_count": 15,
+        "reply_users_count": 2,
+        "latest_reply": "1696111283.346989",
+        "reply_users": [
+            "U05TQLV3ZC4",
+            "U05TG4W1YUF"
+        ],
+        "replies": [
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1696055353.495879"
+            },
+            {
+                "user": "U05TG4W1YUF",
+                "ts": "1696055574.767689"
+            },
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1696056315.035409"
+            },
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1696083217.723329"
+            },
+            {
+                "user": "U05TG4W1YUF",
+                "ts": "1696083272.973909"
+            },
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1696083293.904689"
+            },
+            {
+                "user": "U05TG4W1YUF",
+                "ts": "1696083323.091229"
+            },
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1696083325.326829"
+            },
+            {
+                "user": "U05TG4W1YUF",
+                "ts": "1696083370.038659"
+            },
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1696083385.932949"
+            },
+            {
+                "user": "U05TG4W1YUF",
+                "ts": "1696083409.463779"
+            },
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1696083460.181399"
+            },
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1696083465.926839"
+            },
+            {
+                "user": "U05TG4W1YUF",
+                "ts": "1696083488.805569"
+            },
+            {
+                "user": "U05TG4W1YUF",
+                "ts": "1696111283.346989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1696111283.346989"
+    },
+    {
+        "client_msg_id": "bb481fdc-6dea-4281-a125-0879e4d4d737",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> :point_up:",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696055353.495879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZE4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up",
+                                "unicode": "261d-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "F6EB1F62-EF27-4005-9AFD-99805B9BC3C1",
+        "type": "message",
+        "text": "Yes ! I have done few components and screen . Most probably within this week screen will be done and currently working on listing down all slack api’s , will share doc by today",
+        "user": "U05TG4W1YUF",
+        "ts": "1696055574.767689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GZhxQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes ! I have done few components and screen . Most probably within this week screen will be done and currently working on listing down all slack api’s , will share doc by today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    },
+    {
+        "client_msg_id": "babafd4b-e28a-4a56-8441-e37766a551ee",
+        "type": "message",
+        "text": "Can we connect tomorrow morning? PST India time to go over?",
+        "user": "U05TQLV3ZC4",
+        "ts": "1696056315.035409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f9w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we connect tomorrow morning? PST India time to go over?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696052558.371309",
+        "parent_user_id": "U05TQLV3ZC4"
+    }
+]

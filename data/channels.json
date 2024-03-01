@@ -1,0 +1,83 @@
+[
+{
+    "id": "C05RLN05Z3P",
+    "name": "product-management",
+    "created": 1694350526,
+    "creator": "U05S28VB3ED",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U05RA88PCPR",
+        "U05S28VB3ED",
+        "U05S28X7ETB",
+        "U05TG4W1YUF",
+        "U05TQLV3ZC4",
+        "U05TTNUB27P",
+        "U05TZ4E0G5A"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This channel is for everything #product-management. Hold meetings, share docs, and make decisions together with your team.",
+        "creator": "U05S28VB3ED",
+        "last_set": 1694350526
+    }
+},
+{
+    "id": "C05RPGMLE83",
+    "name": "random",
+    "created": 1694350417,
+    "creator": "U05S28VB3ED",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U05RA88PCPR",
+        "U05S28VB3ED",
+        "U05S28X7ETB",
+        "U05TG4W1YUF",
+        "U05TQLV3ZC4",
+        "U05TTNUB27P",
+        "U05TZ4E0G5A"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+        "creator": "U05S28VB3ED",
+        "last_set": 1694350417
+    }
+},
+{
+    "id": "C05SCKCMV5E",
+    "name": "general",
+    "created": 1694350416,
+    "creator": "U05S28VB3ED",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "U05RA88PCPR",
+        "U05S28VB3ED",
+        "U05S28X7ETB",
+        "U05TG4W1YUF",
+        "U05TQLV3ZC4",
+        "U05TTNUB27P",
+        "U05TZ4E0G5A"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.",
+        "creator": "U05S28VB3ED",
+        "last_set": 1694350416
+    }
+}
+]

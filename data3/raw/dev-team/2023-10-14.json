@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "b468284f-6c74-4eac-9498-5e3c4f19e9a7",
+        "type": "message",
+        "text": "FYI: <https:\/\/www.jdsupra.com\/legalnews\/webinar-little-pictures-worth-a-8272481\/>",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697269041.396119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k4X\/t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.jdsupra.com\/legalnews\/webinar-little-pictures-worth-a-8272481\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.jdsupra.com\/legalnews\/webinar-little-pictures-worth-a-8272481\/",
+                "thumb_url": "https:\/\/jdsupra-static.s3.amazonaws.com\/profile-images\/og.15858_1446.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 900,
+                "service_icon": "https:\/\/www.jdsupra.com\/img\/fav-jdsupra.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.jdsupra.com\/legalnews\/webinar-little-pictures-worth-a-8272481\/",
+                "fallback": "JD Supra: [Webinar] Little Pictures Worth A Thousand Words: Emoji Considerations in eDiscovery - October 27th, 1:00 pm - 2:00 pm EDT | JD Supra",
+                "text": "The rise of smart phones and collaboration tools have changed the way we communicate and do business. Now incomplete sentences, abbreviations, and...",
+                "title": "[Webinar] Little Pictures Worth A Thousand Words: Emoji Considerations in eDiscovery - October 27th, 1:00 pm - 2:00 pm EDT | JD Supra",
+                "title_link": "https:\/\/www.jdsupra.com\/legalnews\/webinar-little-pictures-worth-a-8272481\/",
+                "service_name": "JD Supra"
+            }
+        ]
+    }
+]

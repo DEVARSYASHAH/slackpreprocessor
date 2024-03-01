@@ -1,0 +1,208 @@
+[
+    {
+        "client_msg_id": "CF8BEC2E-8837-4B23-8F7B-E4B2D3937D42",
+        "type": "message",
+        "text": "Hey Satish ! Please don’t do any harm to Tanush as he is in full time job. And he hasn’t yet charged you anything. I know there is some time loss we faced but this will create bad impact and relationship. He might loose his job.",
+        "user": "U05TG4W1YUF",
+        "ts": "1697433018.230909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vOsl\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Satish ! Please don’t do any harm to Tanush as he is in full time job. And he hasn’t yet charged you anything. I know there is some time loss we faced but this will create bad impact and relationship. He might loose his job."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "D5649907-DCAB-49E6-A8F1-1BC06142E888",
+        "type": "message",
+        "text": "And regarding Ux\/Ui if you are having problem managing please give it to me directly, I will manage, I will take responsibility",
+        "user": "U05TG4W1YUF",
+        "ts": "1697433027.125339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ikHp0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And regarding Ux\/Ui if you are having problem managing please give it to me directly, I will manage, I will take responsibility"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "ab34616a-3055-4601-8ec0-be534cff8e9f",
+        "type": "message",
+        "text": "On call -",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697433053.920759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HEwYP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On call -"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "90F0B390-BC01-4D99-8490-B7F543119F17",
+        "type": "message",
+        "text": "Okayy",
+        "user": "U05TG4W1YUF",
+        "ts": "1697433103.071019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a01CD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okayy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "5ECF98B2-A545-4DE5-ABB9-1848151DDB7B",
+        "type": "message",
+        "text": "Please see my text. Tanush draa huaa h. ! Please don’t do anything that will result in loss of anyone’s job. And let me take responsibility of the things",
+        "user": "U05TG4W1YUF",
+        "ts": "1697433190.504539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6k50F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please see my text. Tanush draa huaa h. ! Please "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do anything that will result in loss of "
+                            },
+                            {
+                                "type": "text",
+                                "text": "anyone’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " job. And let me take responsibility of the things"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    }
+]

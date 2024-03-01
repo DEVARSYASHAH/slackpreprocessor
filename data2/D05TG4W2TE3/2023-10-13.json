@@ -1,0 +1,334 @@
+[
+    {
+        "client_msg_id": "5887733C-202F-48FE-8B9C-A422EDB51C7C",
+        "type": "message",
+        "text": "Any update on Ux\/Ui",
+        "user": "U05TG4W1YUF",
+        "ts": "1697218823.435549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KsGn4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any update on Ux\/Ui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "450E5BE1-BC29-4869-80AD-03066DE82827",
+        "type": "message",
+        "text": "I recently joined one person in my team for UX\/UI. She is very good and experienced in this.",
+        "user": "U05TG4W1YUF",
+        "ts": "1697218868.535369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/RsO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I recently joined one person in my team for UX\/UI. She is very good and experienced in this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "0176D05F-E45B-4C3E-9D43-B87B044A0AAC",
+        "type": "message",
+        "text": "I’ve hired company this time so they will deliver for sure without any delay. Will share updates on Monday ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697219222.820269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DAEn2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve hired company this time so they will deliver for sure without any delay. Will share updates on Monday "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BD05BC3F-3646-450B-9ECA-395EC55E26C0",
+        "type": "message",
+        "text": "If you are available today or tomorrow, we can finished database schema ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697219349.749809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Tz87",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you are available today or tomorrow, we can finished database schema "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D54BBCFC-65AC-408F-B6F3-B38A702C6E0B",
+        "type": "message",
+        "text": "You hired company just for Ux\/Ui?",
+        "user": "U05TG4W1YUF",
+        "ts": "1697229866.762169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nwL3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You hired company just for Ux\/Ui?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1697229866.762169",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1697231068.432189",
+        "reply_users": [
+            "U05TQLV3ZC4"
+        ],
+        "replies": [
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1697231049.405459"
+            },
+            {
+                "user": "U05TQLV3ZC4",
+                "ts": "1697231068.432189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1697231068.432189"
+    },
+    {
+        "client_msg_id": "3CB8D310-F683-42C8-803B-1186ECFE796D",
+        "type": "message",
+        "text": "Yes ! I am available ",
+        "user": "U05TG4W1YUF",
+        "ts": "1697229882.089769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xPu6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes ! I am available "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "client_msg_id": "1ED69A1C-A9B8-4D3D-B37A-364E5B762B3A",
+        "type": "message",
+        "text": "No, my friend runs small company I’ve contacted him to UI\/UX work. Will get job done in same budget. Hoping to see something on Monday.",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697231049.405459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kvge8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, my friend runs small company I’ve contacted him to UI\/UX work. Will get job done in same budget. Hoping to see something on Monday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697229866.762169",
+        "parent_user_id": "U05TG4W1YUF"
+    },
+    {
+        "client_msg_id": "69C0DA38-99E1-437D-A648-35B009705D28",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> Are you available now? ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1697231068.432189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jV1mw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Are you available now? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697229866.762169",
+        "parent_user_id": "U05TG4W1YUF"
+    }
+]

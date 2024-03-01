@@ -1,0 +1,173 @@
+[
+    {
+        "client_msg_id": "CCB12DEE-CCBF-4BFD-8D87-C334972E8A97",
+        "type": "message",
+        "text": "<@U05TG4W1YUF> <@U05TZ4E0G5A> - Are we meeting at 10? ",
+        "user": "U05TQLV3ZC4",
+        "ts": "1695790854.970499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=UCUs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05TG4W1YUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05TZ4E0G5A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Are we meeting at 10? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g625cc5a58df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/625cc5a58df870a020f7a9f7070b59a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Satish",
+            "real_name": "Satish",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "satish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "40B5BB45-10E0-4393-9225-FA7D91DA6B08",
+        "type": "message",
+        "text": "I am available ",
+        "user": "U05TG4W1YUF",
+        "ts": "1695790887.891899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I"
+                            },
+                            {
+                                "type": "text",
+                                "text": " am available "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "g22d8fb57edb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22d8fb57edbe9813b22163a51500df62.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Kumar",
+            "display_name": "",
+            "team": "T05R93T7YDD",
+            "name": "nikhil993477",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "D05TG4W2TE3",
+        "room": {
+            "id": "R05UFL0RY2D",
+            "name": "",
+            "media_server": "",
+            "created_by": "U05TQLV3ZC4",
+            "date_start": 1695790995,
+            "date_end": 1695793233,
+            "participants": [],
+            "participant_history": [
+                "U05TQLV3ZC4",
+                "U05TG4W1YUF"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1695790995.607619",
+            "thread_root_ts": "1695790995.607619",
+            "channels": [
+                "D05TG4W2TE3"
+            ],
+            "is_dm_call": true,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": true,
+            "has_ended": true,
+            "background_id": "GRADIENT_03",
+            "canvas_background": "GRADIENT_03",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "7c5e8c27-5e75-489a-a46b-390d39110706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/kentronhq.slack.com\/call\/R05UFL0RY2D",
+        "subtype": "huddle_thread",
+        "ts": "1695790995.607619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HhI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05R93T7YDD",
+        "user_team": "T05R93T7YDD",
+        "source_team": "T05R93T7YDD",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T05R93T7YDD",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]
